@@ -1,0 +1,988 @@
+,ID,Country,Date,Amount,Controller_Processor,Quoted_Art,Type,Source
+0,ETid-987,IRELAND,2021-12-02,"60,000",Irish Teacher Council,"Art. 5 (1) GDPR, Art. 32 (1) GDPR, Art. 33 GDPR",Insufficient technical and organisational measures to ensure information security,link
+1,ETid-986,GREECE,2021-12-31,"30,000",INFO COMMUNICATION SERVICES,"Art. 13 GDPR, Art. 14 GDPR, Art. 11 Law 3471/2006",Insufficient fulfilment of information obligations,link
+2,ETid-985,GREECE,2021-12-31,"25,000",PLUS REAL ADVERTISEMENT,"Art. 13 GDPR, Art. 14 GDPR, Art. 11 Law 3471/2006",Insufficient fulfilment of information obligations,link
+3,ETid-984,POLAND,2021-12-09,"10,000",Warsaw University of Technology,"Art. 5 (1) f) GDPR, Art. 5 (2) GDPR, Art. 24 (1) GDPR, Art. 25 (1) GDPR, Art. 32 (1), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link link
+4,ETid-983,SPAIN,2022-01-11,"9,000",EDUCANDO JUNTOS SL,"Art. 6 (1) GDPR, Art. 17 GDPR",Insufficient legal basis for data processing,link
+5,ETid-982,SPAIN,2022-01-11,"3,000",Property Owner Community,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+6,ETid-981,GREECE,2022-01-05,"1,000",Εγνατία Οδός Α.Ε.,Art. 12 (3) GDPR,Insufficient fulfilment of data subjects rights,link
+7,ETid-980,FRANCE,2021-12-31,"60,000,000",Facebook Ireland Ltd.,Art. 82 loi Informatique et Libertés,Insufficient legal basis for data processing,link link
+8,ETid-979,FRANCE,2021-12-31,"60,000,000",Google Ireland Ltd.,Art. 82 loi Informatique et Libertés,Insufficient legal basis for data processing,link link
+9,ETid-978,FRANCE,2021-12-31,"90,000,000",Google LLC,Art. 82 loi Informatique et Libertés,Insufficient legal basis for data processing,link link
+10,ETid-977,ROMANIA,2021-12-06,"6,000",Telekom Romania Communications SA,"Art. 5 (1) d), f) GDPR, Art. 5 (2) GDPR, Art. 17 GDPR",Non-compliance with general data processing principles,link
+11,ETid-976,ITALY,2021-11-11,"150,000",TIM S.p.A.,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+12,ETid-975,ITALY,2021-12-02,"30,000",Ica s.r.l.,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+13,ETid-974,NORWAY,2021-12-13,"20,000",Elektro & Automasjon Systemer AS,Art. 6 (1) f) GDPR,Insufficient legal basis for data processing,link
+14,ETid-973,SPAIN,2021-12-28,"2,000",Call shop manager,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+15,ETid-972,FRANCE,2021-12-28,"300,000",FREE MOBILE,"Art. 12 GDPR, Art. 15 GDPR, Art. 21 GDPR, Art. 25 GDPR, Art. 32 GDPR",Insufficient fulfilment of data subjects rights,link link
+16,ETid-971,FRANCE,2021-12-28,"180,000",SLIMPAY,"Art. 28 GDPR, Art. 32 GDPR, Art. 34 GDPR",Insufficient technical and organisational measures to ensure information security,link link
+17,ETid-970,SPAIN,2021-12-28,"6,000",REAL CLUB NÁUTICO DE RIBADEO,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+18,ETid-969,SPAIN,2021-12-28,"2,000","VENTANAS MAKE YOURSELF, S.L.",Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+19,ETid-968,SPAIN,2021-12-16,"60,000",Banco Bilbao Vizcaya Argentaria S.A.,Art. 6 GDPR,Insufficient legal basis for data processing,link
+20,ETid-967,SPAIN,2021-12-22,"5,000",HUBSIDE IBÉRICA S.L.,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+21,ETid-966,SPAIN,2021-12-22,"5,000",Sfam España General s.l.,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+22,ETid-965,SPAIN,2021-12-21,"6,000",Private individual,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+23,ETid-964,SPAIN,2021-12-23,"1,500",LA OFICINA BAR,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+24,ETid-963,SPAIN,2021-12-17,"4,000",CLUB DEPORTIVO RITMO DE ANDALUCÍA,"Art. 7 GDPR, Art. 13 GDPR",Insufficient fulfilment of information obligations,link
+25,ETid-962,SPAIN,2021-12-21,"2,000",FUNDACION ESPANOLA DE MEDICINA ESTETICA Y LONGEVIDAD,"Art. 7 GDPR, Art. 13 GDPR",Insufficient fulfilment of information obligations,link
+26,ETid-961,AUSTRIA,2021-08-05,600,Private individual,Art. 9 GDPR,Insufficient legal basis for data processing,link
+27,ETid-960,NORWAY,2021-12-17,"3,900",T. Stene Transport AS,Unknown,Unknown,link
+28,ETid-959,SPAIN,2021-12-17,"2,000",Online retailer,Art. 6 GDPR,Insufficient legal basis for data processing,link
+29,ETid-958,SPAIN,2021-12-17,"2,000",Private individual,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+30,ETid-957,GREECE,2021-12-08,"30,000",One Way Private Company,"Art. 28 (3) c) GDPR, Art. 32 (2), (4) GDPR, Art. 11 (1) Νόμος 3471/2006",Insufficient technical and organisational measures to ensure information security,link
+31,ETid-956,SPAIN,2021-12-14,"50,000","IZA OBRAS Y PROMOCIONES, S.A.",Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+32,ETid-955,HUNGARY,2021-10-27,"13,500",Car importer,"Art. 5 (1), (2) GDPR, Art. 6 (1) GDPR, Art. 12 (1) GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+33,ETid-954,DENMARK,2021-12-16,"13,450",Municipality of Frederiksberg,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+34,ETid-953,SPAIN,2021-12-16,"1,200",Private individual,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+35,ETid-952,FINLAND,2021-12-07,"608,000",Psykoterapiakeskus Vastaamo,"Art. 5 (1) f) GDPR, Art. 33 (1) GDPR, Art. 34 (1) GDPR",Non-compliance with general data processing principles,link
+36,ETid-951,AUSTRIA,2021-02-12,"3,000",Unknown,Art. 31 GDPR,Insufficient cooperation with supervisory authority,link
+37,ETid-950,NORWAY,2021-12-13,"6,300,000",Grindr LLC,"Art. 6 (1) GDPR, Art. 9 (1) GDPR",Insufficient legal basis for data processing,link
+38,ETid-949,ROMANIA,2021-12-13,"2,000",SC Nobiotic Pharma SRL,Art. 58 (1) GDPR,Insufficient cooperation with supervisory authority,link
+39,ETid-948,NORWAY,2021-11-24,"98,000",Norwegian State Pension Fund (SPK),"Art. 5 (1) c), e) GDPR, Art. 6 (1) GDPR, Art. 9 (2) GDPR",Insufficient legal basis for data processing,link
+40,ETid-947,BELGIUM,2021-12-08,"10,000",Unknown,"Art. 12 (3) GDPR, Art. 14 (1), (2), (3) GDPR, Art. 15 GDPR, Art. 17 (1) c) GDPR, Art. 21 (2) GDPR",Insufficient fulfilment of data subjects rights,link
+41,ETid-946,THE NETHERLANDS,2021-11-25,"2,750,000",Dutch Minister of Finance,"Art. 5 (1) a) GDPR, Art. 6 (1) e) GDPR, Art. 8 Wbp",Insufficient legal basis for data processing,link link
+42,ETid-945,SPAIN,2021-12-07,"24,000","NBQ Technology, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+43,ETid-944,SPAIN,2021-12-03,"1,000",Store owner,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+44,ETid-943,GERMANY,2019,"Fine amount between EUR 350 and EUR 1,000",Unknown,Art. 6 GDPR,Insufficient legal basis for data processing,link
+45,ETid-942,GERMANY,2019,Fine amount between EUR 50 and EUR 800,Unknown,Art. 6 GDPR,Insufficient legal basis for data processing,link
+46,ETid-941,GERMANY,2019,500,Unknown,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+47,ETid-940,GERMANY,Unknown,600,Unknown,Art. 6 GDPR,Insufficient legal basis for data processing,link
+48,ETid-939,GERMANY,Unknown,300,Unknown,Art. 6 GDPR,Insufficient legal basis for data processing,link
+49,ETid-938,GERMANY,Unknown,50,Unknown,Art. 6 GDPR,Insufficient legal basis for data processing,link
+50,ETid-937,SPAIN,2021-11-02,"2,000","COOPERA RC SERVICES, S.L.",Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+51,ETid-936,SPAIN,2021-11-23,"40,000","Vodafone España, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+52,ETid-935,SPAIN,2021-11-23,"40,000","Vodafone España, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+53,ETid-934,SPAIN,2021-12-02,"2,000","IMAGINA FRAN SPORT, S.L.",Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+54,ETid-933,SPAIN,2021-12-01,"5,000","INTRODUCTION BUSINESS CAPITAL MEDIA, S.L.","Art. 48 (1) b) LGT, Art. 21 GDPR, Art. 23 LOPDGDD",Insufficient fulfilment of data subjects rights,link
+55,ETid-932,ITALY,2021-10-14,"8,000",Health Protection Agency of Sardinia (ATS),"Art. 5 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+56,ETid-931,ITALY,2021-09-29,"2,000",Physician,"Art. 5 (1) a) GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+57,ETid-930,UNITED KINGDOM,2021-11-25,"585,000",Cabinet Office,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link link
+58,ETid-929,ITALY,2021-10-28,"2,000",Anfiteatro Flavio s.r.l.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+59,ETid-928,ITALY,2021-10-28,"2,000",OTTO s.r.l.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+60,ETid-927,LITHUANIA,2021-11-29,"110,000",UAB Prime Leasing,"Art. 32 (1) b), d) GDPR",Insufficient technical and organisational measures to ensure information security,link
+61,ETid-926,SPAIN,2021-11-30,"5,000",ASOCIACIÓN ESPAÑOLA PARA LA ENSEÑANZA ONLINE,"Art. 17 (1) GDPR, Art. 21 LSSI",Insufficient fulfilment of data subjects rights,link
+62,ETid-925,SPAIN,2021-11-30,"20,000","DAVISER SERVICIOS, S.L.",Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+63,ETid-924,SPAIN,2021-11-30,"5,000",ASOCIACIÓN ESPAÑOLA PARA LA ENSEÑANZA ONLINE,"Art. 17 (1) GDPR, Art. 21 LSSI",Insufficient fulfilment of data subjects rights,link
+64,ETid-923,SPAIN,2021-11-30,"1,500",Neighborhood community,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+65,ETid-922,SPAIN,2021-11-29,"1,000",Restaurant owner,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+66,ETid-921,SPAIN,2021-11-29,"4,000","TIGERS MARKET, S.L.","Art. 48 (1) b) LGT, Art. 21 GDPR, Art. 23 LOPDGDD",Insufficient fulfilment of data subjects rights,link
+67,ETid-920,LUXEMBOURG,2021-10-27,"15,400",Unknown,"Art. 38 (1), (3) GDPR, Art. 39 (1) a), b) GDPR",Insufficient involvement of data protection officer,link
+68,ETid-919,GREECE,2021-10-14,"20,000",ΚΑΠΑ ΛΑΜΔΑ ΩΜΕΓΑ ΔΙΑΦΗΜΙΣΤΙΚΗ ΕΜΠΟΡΙΚΗ ΜΟΝΟΠΡΟΣΩΠΗ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ,"Art. 6 GDPR, Art. 12 (2) GDPR, Art. 21 GDPR",Insufficient legal basis for data processing,link
+69,ETid-918,SPAIN,2021-11-24,"9,000",UNIÓN FINANCIERA ASTURIANA S.A. E.F.C.,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+70,ETid-917,ICELAND,2021-11-23,"27,200",YAY ehf.,"Art. 5 GDPR, Art. 6 GDPR, Art. 28 GDPR, Art. 32 GDPR",Non-compliance with general data processing principles,link
+71,ETid-916,ICELAND,2021-11-23,"51,000",Icelandic Ministry of Industry and Innovation,"Art. 5 GDPR, Art. 6 GDPR, Art. 7 GDPR, Art. 13 GDPR, Art. 25 GDPR, Art. 28 GDPR, Art. 32 GDPR",Non-compliance with general data processing principles,link
+72,ETid-915,ROMANIA,2021-11-26,"2,000",Valoris Center S.R.L.,"Art. 29 GDPR, Art. 32 (1) b) GDPR, Art. 32 (4) GDPR",Insufficient technical and organisational measures to ensure information security,link
+73,ETid-914,SPAIN,2021-11-23,"40,000","Vodafone España, SAU",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+74,ETid-913,SPAIN,2021-11-23,"3,000",FUENSANTA S.L.,Art. 58 (1) GDPR,Insufficient cooperation with supervisory authority,link
+75,ETid-912,SPAIN,2021-11-22,"2,000","ANIVERSALIA NETWORKS, S.L.",Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+76,ETid-911,SPAIN,2021-11-22,"3,000",Unknown,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+77,ETid-910,FRANCE,2021-11-04,"400,000",Régie autonome des transports parisiens,"Art. 5 (1) c) GDPR, Art. 5 (1) e) GDPR, Art. 5 (2) GDPR, Art. 32 GDPR",Non-compliance with general data processing principles,link link
+78,ETid-909,CYPRUS,2021-11-12,"925,000",WS WiSpear Systems Ltd,Art. 5 (1) a) GDPR,Non-compliance with general data processing principles,link
+79,ETid-908,SPAIN,2021-11-15,"40,000","Vodafone España, SAU",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+80,ETid-907,SPAIN,2021-11-22,"1,000",Neighborhood community,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+81,ETid-906,BULGARIA,2021-10-26,380,Bank,Art. 5 (1) b) GDPR,Non-compliance with general data processing principles,link
+82,ETid-905,SPAIN,2021-11-15,"30,000","Vodafone España, SAU",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+83,ETid-904,SPAIN,2021-11-15,"1,000",Private Individual,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+84,ETid-903,SPAIN,2021-11-15,"1,000",Supermarket,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+85,ETid-902,THE NETHERLANDS,2021-11-12,"400,000",Transavia,"Art. 32 (1), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link link
+86,ETid-901,POLAND,2021-10-14,"78,000",Bank Millennium S.A,"Art. 33 (1) GDPR, Art. 34 (1) GDPR",Insufficient fulfilment of data breach notification obligations,link
+87,ETid-900,SPAIN,2021-11-12,"3,000",AD735 DATA MEDIA ADVERTISING S.L.,Art. 58 (1) GDPR,Insufficient cooperation with supervisory authority,link
+88,ETid-899,SPAIN,2021-11-12,"1,500",Company,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+89,ETid-898,ROMANIA,2021-11-14,"2,900",Vodafone România SA,"Art. 32 (1) b) GDPR, Art. 32 (2) GDPR, Art. 3 (1) Law No. 506/2004, Art. 3 (3) a), b) Law No. 506/2004",Insufficient technical and organisational measures to ensure information security,link
+90,ETid-897,GREECE,2021-10-04,"5,000",PREMIUMMEDIA ΠΑΡΑΓΩΓΗ ΟΠΤΙΚΟ-ΑΚΟΥΣΤΙΚΩΝ ΕΡΓΩΝ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΙΑ,"Art. 21 (3) GDPR, Art. 25 GDPR",Insufficient fulfilment of data subjects rights,link
+91,ETid-896,LUXEMBOURG,2021-10-13,"18,000",Unknown,"Art. 37 (7) GDPR, Art. 38 (1), (2) GDPR, Art. 39 (1) b) GDPR",Insufficient involvement of data protection officer,link
+92,ETid-895,LUXEMBOURG,2021-10-13,"13,200",Unknown,"Art. 38 (1) GDPR, Art. 39 (1) b) GDPR",Insufficient involvement of data protection officer,link
+93,ETid-894,LUXEMBOURG,2021-10-06,"5,300",Unknown,"Art. 5 (1) c) GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+94,ETid-893,IRELAND,2021-08-20,"1,500",MOVE Ireland,"Art. 5 (1) f) GDPR, Art. 32 (1) GDPR",Insufficient technical and organisational measures to ensure information security,link link
+95,ETid-892,ITALY,2021-09-16,"5,000",Comune di Montalbano Jonico,"Art. 5 (1) a), c) GDPR, Art. 6 (1) c), e) GDPR, Art. 6 (2) GDPR, Art. 6 (3) b) GDPR, Art. 9 (1), (2), (4) GDPR, Art. 2-ter (1), (3) Codice della privacy, Art. 2-septies (8) Codice della privacy",Non-compliance with general data processing principles,link
+96,ETid-891,ROMANIA,2021-11-1,"5,000",S.P.E.E.H. Hidroelectrica S.A.,"Art. 32 (1) b), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+97,ETid-890,ROMANIA,2021-11-1,"1,000",IKEA ROMÂNIA SA,"Art. 32 (1) b), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+98,ETid-889,SPAIN,2021-10-26,"40,000","VODAFONE SERVICIOS, S.L.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+99,ETid-888,SPAIN,2021-10-26,"40,000","VODAFONE SERVICIOS, S.L.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+100,ETid-887,SPAIN,2021-10-26,"16,000","SERVICIOS LOGÍSTICOS MARTORELL SIGLO XXI, S.L.",Art. 35 GDPR,Non-compliance with general data processing principles,link
+101,ETid-886,SPAIN,2021-10-26,"64,000","Vodafone España, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+102,ETid-885,SPAIN,2021-10-25,"3,000","MERCEDES GERENCIA, S.L.",Art. 58 (1) GDPR,Insufficient cooperation with supervisory authority,link
+103,ETid-884,SPAIN,2021-10-21,"3,000,000","CAIXABANK PAYMENTS & CONSUMER EFC, EP, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+104,ETid-883,UNITED KINGDOM,2021-10-18,"11,800",HIV Scotland,"Art. 5 (1) f) GDPR, Art. 32 (1), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link link
+105,ETid-882,SPAIN,2021-10-19,"2,000",BEEPING FULFILMENT S.L.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+106,ETid-881,SPAIN,2021-10-19,"40,000","Vodafone España, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+107,ETid-880,ROMANIA,2021-10-21,"5,000",Glove Technology SRL,"Art. 5 (1) a) GDPR, Art. 6 (1) a) GDPR",Insufficient legal basis for data processing,link
+108,ETid-879,SPAIN,2021-10-19,"70,000","Vodafone España, S.A.U.","Art. 21 GDPR, Art. 21 LSSI",Insufficient fulfilment of data subjects rights,link
+109,ETid-878,NORWAY,2021-10-18,"412,000",Østre Toten municipality,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+110,ETid-877,ITALY,2021-09-16,"3,296,326",Sky Italia S.r.l.,"Art. 5 (1), (2) GDPR, Art. 6 (1) GDPR, Art. 7 GDPR, Art. 12 (2) GDPR, Art. 14 GDPR, Art. 21 GDPR, Art. 28 GDPR, Art. 29 GDPR",Insufficient legal basis for data processing,link link
+111,ETid-876,ITALY,2021-09-16,"200,000",Bocconi University,"Art. 5 (1) a), c), e) GDPR, Art. 6 GDPR, Art. 9 GDPR, Art. 13 GDPR, Art. 25 GDPR, Art. 35 GDPR, Art. 44 GDPR, Art. 46 GDPR, Art. Art. 2-sexies Codice della Privacy",Non-compliance with general data processing principles,link
+112,ETid-875,IRELAND,2021-10-06,Only intention to issue fine,Facebook Ireland Limited,"Art. 5 (1) a) GDPR, Art. 12 (1) GDPR, Art. 13 (1) c) GDPR",Insufficient fulfilment of information obligations,link
+113,ETid-874,ITALY,2021-09-16,"5,000",Ciechi Ardizzone Gioeni di Catania,"Art. 5 (1) a), c) GDPR, Art. 12 (1) GDPR, Art. 13 GDPR, Art. 35 GDPR",Non-compliance with general data processing principles,link
+114,ETid-873,AUSTRIA,2021,"1,200,000",Customer loyalty program,Unknown,Unknown,link
+115,ETid-872,AUSTRIA,2021,"4,000,000",Bank,Unknown,Unknown,link
+116,ETid-871,AUSTRIA,2021-09-28,"9,500,000",Austrian Post,Unknown,Unknown,link link
+117,ETid-870,SPAIN,2021-10-13,"40,000","Vodafone España, S.A.U.","Art. 5 (1) f) GDPR, Art. 32 GDPR",Non-compliance with general data processing principles,link
+118,ETid-869,ITALY,2021-09-16,"5,000",La Prima S.r.l.,"Art. 5 GDPR, Art. 6 GDPR, Art. 24 GDPR, Art. 25 GDPR",Insufficient legal basis for data processing,link
+119,ETid-868,SPAIN,2021-10-11,"10,000",MAF.COM ESQUI CLUB,Art. 7 GDPR,Insufficient legal basis for data processing,link
+120,ETid-867,SPAIN,2021-10-08,"30,000","ORANGE ESPAGNE, S.A.U.",Art. 6 (1) a) GDPR,Insufficient legal basis for data processing,link
+121,ETid-866,LUXEMBOURG,2021-08-05,"135,000",Insurance company,"Art. 5 (1) f) GDPR, Art. 32 (1) a), b) GDPR, Art. 33 (1), (5) GDPR",Insufficient technical and organisational measures to ensure information security,link
+122,ETid-865,SPAIN,2021-10-05,"4,000","CLUB DEPORTIVO SANSUEÑA, S.L.","Art. 5 (1) e) GDPR, Art. 6 GDPR, Art. 32 (1) b), d) GDPR",Insufficient legal basis for data processing,link
+123,ETid-864,SPAIN,2021-10-04,"5,000","CALDERERIA Y SOLDADURA DE ESTRUCTURAS METALICAS, S.L.",Art. 6 GDPR,Insufficient legal basis for data processing,link
+124,ETid-863,NORWAY,2021-09-21,"12,500",Ultra-Technology AS,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+125,ETid-862,SPAIN,2021-10-04,"1,000",Store owner,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+126,ETid-861,SPAIN,2021-10-04,"2,000",Store owner,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+127,ETid-860,SPAIN,2021-09-04,"1,500","AMPUDIA DIAZ, S.L.","Art. 5 (1) c) GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+128,ETid-859,NORWAY,2021-09-20,"75,600",ST. OLAVS HOSPITAL HF,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+129,ETid-858,NORWAY,2021-09-20,"40,200",Høylandet Municipality,"Art. 32 (1) b), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+130,ETid-857,DENMARK,2021-09-29,"107,000",Danish Cancer Society,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+131,ETid-856,SPAIN,2021-09-29,"10,000",ACONCAGUA JUEGOS S.A.,Art. 37 GDPR,Insufficient involvement of data protection officer,link
+132,ETid-855,SPAIN,2021-09-29,"5,000","CYNGASA, S.L.",Art. 6 GDPR,Insufficient legal basis for data processing,link
+133,ETid-854,SPAIN,2021-09-28,"3,000",Bar owner,Art. 5 (1) b) GDPR,Non-compliance with general data processing principles,link
+134,ETid-853,SPAIN,2021-09-14,"56,000","Vodafone España, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+135,ETid-852,SPAIN,2021-09-14,"56,000","Vodafone España, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+136,ETid-851,NORWAY,2021-09-27,"496,000",Ferde AS,"Art. 5 (1) f) GDPR, Art. 5 (2) GDPR, Art. 28 (3) GDPR, Art. 32 (2) GDPR, Art. 44 GDPR",Non-compliance with general data processing principles,link
+137,ETid-850,SPAIN,2021-09-14,"56,000","Vodafone España, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+138,ETid-849,SPAIN,2021-09-14,"56,000","Vodafone España, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+139,ETid-848,SPAIN,2021-09-24,"3,000",Unknown,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+140,ETid-847,ISLE OF MAN,2020-12-11,"3,250",Cosmetic Medical Limited,Art. 31 GDPR,Insufficient cooperation with supervisory authority,link
+141,ETid-846,GERMANY,2021-09-24,"900,000",Vattenfall Europe Sales GmbH,"Art. 12 GDPR, Art. 13 GDPR",Insufficient data processing agreement,link
+142,ETid-845,SPAIN,2021-09-14,"40,000","Vodafone España, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+143,ETid-844,SPAIN,2021-09-20,"18,000","CEDICO, CENTRO DE DIAGNÓSTICO POR LA IMÁGEN, S.L.",Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+144,ETid-843,GREECE,2021-08-26,"5,000",NOW DOCTOR – Εταιρία Παροχής Ηλεκτρονικών Υπηρεσιών Αναζήτησης και Προβολής Ιατρών Ε.Π.Ε.,"Art. 5 (1) a), e) GDPR, Art. 5 (2) GDPR, Art. 6 (1) GDPR, Art. 12 (2), (3) GDPR, Art. 17 GDPR",Non-compliance with general data processing principles,link
+145,ETid-842,GREECE,2021-09-03,"8,000",Rhodes Municipal Transport Company,"Art. 5 (1) c) GDPR, Art. 12 (3) GDPR, Art. 15 GDPR",Insufficient fulfilment of data subjects rights,link
+146,ETid-841,GREECE,2021-08-26,"20,000",National Bank of Greece,"Art. 12 (1), (2), (3) GDPR, Art. 15 (1) GDPR",Insufficient fulfilment of data subjects rights,link
+147,ETid-840,GREECE,2021-08-26,"20,000",Dixons South East Europe ΑΕΒΕ-ΚΩΤΣΟΒΟΛΟΣ,"Art. 12 (1), (2), (3) GDPR, Art. 15 (1) GDPR",Insufficient fulfilment of data subjects rights,link
+148,ETid-839,DENMARK,2021-09-17,"67,200",Syddanmark Region,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+149,ETid-838,SPAIN,2021-09-16,"4,000",Frigorifica Botana S.L.,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+150,ETid-837,FRANCE,2021-09-15,"3,000",Société nouvelle de l’annuaire français,"Art. 16 GDPR, Art. 17 GDPR, Art. 30 GDPR, Art. 31 GDPR",Insufficient fulfilment of data subjects rights,link link
+151,ETid-836,DENMARK,2021-09-16,"10,000",Favrskov municipality,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+152,ETid-835,SPAIN,2021-09-13,"9,000",Website operator,"Art. 6 GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+153,ETid-834,SPAIN,2021-09-13,"1,000",Hairdressing salon,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+154,ETid-833,SPAIN,2021-09-13,"1,000",GESTIONES AUTO LOW COST S. L.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+155,ETid-832,CYPRUS,2021-09-06,"25,000",Hellenic Technical Enterprises Ltd.,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link link
+156,ETid-831,CYPRUS,2021-09-06,"40,000",AC Omonia,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link link
+157,ETid-830,CYPRUS,2021-09-06,"40,000",APOEL FC,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link link
+158,ETid-829,ITALY,2021-07-22,"400,000",Atac s.p.a.,"Art. 5 GDPR, Art. 6 GDPR, Art. 30 GDPR, Art. 32 GDPR",Non-compliance with general data processing principles,link link
+159,ETid-828,ITALY,2021-07-22,"30,000",Flowbird Italia s.r.l.,"Art. 5 GDPR, Art. 6 GDPR, Art. 30 GDPR",Non-compliance with general data processing principles,link link
+160,ETid-827,ITALY,2021-07-22,"800,000",Roma Capitale,"Art. 5 GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 25 GDPR, Art. 28 GDPR, Art. 32 GDPR",Non-compliance with general data processing principles,link link
+161,ETid-826,ITALY,2021-07-22,"200,000",Regione Lombardia,"Art. 5 (1) a), c) GDPR, Art. 6 (1) c), e) GDPR, Art. 6 (2) GDPR, Art. 6 (3) b) GDPR",Non-compliance with general data processing principles,link link
+162,ETid-825,IRELAND,2021-09-07,"1,400",Vodafone Ireland Limited,Art. 21 GDPR,Insufficient fulfilment of data subjects rights,link
+163,ETid-824,DENMARK,2021-09-08,"53,800",Midtjylland Region,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+164,ETid-823,SPAIN,2021-09-02,"4,000","Automecanica Jerez, S.L.","Art. 5 (1) f) GDPR, Art. 32 GDPR, Art. 21 LSSI",Insufficient technical and organisational measures to ensure information security,link
+165,ETid-822,SPAIN,2021-08-23,"1,800",Agency,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+166,ETid-821,SPAIN,2021-08-30,"6,000",Furnishyourspace S.L.,"Art. 5 (1) a) GDPR, Art. 6 GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 21 (4) GDPR",Insufficient fulfilment of information obligations,link
+167,ETid-820,IRELAND,2021-09-02,"225,000,000",WhatsApp Ireland Ltd.,"Art. 5 (1) a) GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 14 GDPR",Insufficient fulfilment of information obligations,link link
+168,ETid-819,SPAIN,2021-08-25,"120,000","Banco Bilbao Vizcaya Argentaria, S.A.",Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+169,ETid-818,SPAIN,2021-08-26,"1,000",Owners Association,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+170,ETid-817,POLAND,2021-08-13,"2,200",President of the Zgierz District Court,"Art. 5 (1) f) GDPR, Art. 25 (1) GDPR, Art. 32 (1) b), d), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+171,ETid-816,ROMANIA,2021-08-24,"3,000",Actamedica SRL,"Art. 28 (1) GDPR, Art. 32 GDPR, Art. 33 GDPR",Insufficient technical and organisational measures to ensure information security,link
+172,ETid-815,SPAIN,2021-08-23,"2,000",Company owner,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+173,ETid-814,SPAIN,2021-08-13,"1,000",Employer,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+174,ETid-813,HUNGARY,2021-06-18,"28,400",Magyar Telekom Nyrt.,"Art. 5 (1) d) GDPR, Art. 6 (1) GDPR, Art. 12 (2), (3), (4) GDPR, Art. 17 (1) GDPR, Art. 25 GDPR",Insufficient fulfilment of data subjects rights,link
+175,ETid-812,HUNGARY,2021-04-20,"2,800",Website operator,"Art. 5 (2) GDPR, Art. 24 GDPR",Non-compliance with general data processing principles,link
+176,ETid-811,SPAIN,2021-08-03,"96,000","Vodafone España, S.A.U.","Art. 6 (1) GDPR, Art. 17 GDPR",Insufficient legal basis for data processing,link
+177,ETid-810,SPAIN,2021-08-10,"2,000",DESPACHO TEJEDOR INFANTES CONSULTORES ASESORES,Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+178,ETid-809,NORWAY,2021-08-12,"9,600",Waxing Palace AS,"Art. 5 GDPR, Art. 6 GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+179,ETid-808,ITALY,2021-06-10,"40,000",aiComply S.r.l.,"Art. 28 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+180,ETid-807,ITALY,2021-06-10,"40,000",Aeroporto Guglielmo Marconi di Bologna S.p.a.,"Art. 5 (1) f) GDPR, Art. 25 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+181,ETid-806,SPAIN,2021-08-05,"6,000",Future Vinline S.L.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+182,ETid-805,SPAIN,2021-08-09,"5,000",CLUB GIMNASIA RÍTMICA SAN ANTONIO,Art. 6 GDPR,Insufficient legal basis for data processing,link
+183,ETid-804,SPAIN,2021-08-09,"1,000","BAZTANDIS, S.L.",Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+184,ETid-803,SPAIN,2021-07-30,"4,000",Gas inspector,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+185,ETid-802,SPAIN,2021-07-30,"2,000",Private Individual,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+186,ETid-801,SPAIN,2021-07-30,600,Private Individual,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+187,ETid-800,SPAIN,2021-07-27,"4,000",Private Individual,"Art. 5 (1) c), e) GDPR",Non-compliance with general data processing principles,link
+188,ETid-799,SPAIN,2021-07-27,"3,000","INSTAPACK, S.L.","Art. 5 (1) a) GDPR, Art. 6 (1) a) GDPR",Insufficient legal basis for data processing,link
+189,ETid-798,SPAIN,2021-07-27,"3,000","UST GLOBAL ESPAÑA, S.A.",Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+190,ETid-797,SPAIN,2021-08-05,"3,000",Private Individual,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+191,ETid-796,SPAIN,2021-07-27,"1,000","APARTAMENTOS PLAYA DE COVACHOS, S.L.",Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+192,ETid-795,SPAIN,2021-07-27,"2,000",Vasco Andaluza de Inversiones S.L.,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+193,ETid-794,SPAIN,2021-07-27,"2,000",Gerco Fit S.L.,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+194,ETid-793,SPAIN,2021-07-27,"2,000",Body Tonic Shop S.L.,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+195,ETid-792,AUSTRIA,2021-08-02,"2,000,000",Unser Ö-Bonus Club GmbH,"Art. 6 GDPR, Art. 7 GDPR, Art. 12 GPDR",Insufficient legal basis for data processing,link link
+196,ETid-791,GERMANY,2020,"65,000",Company,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link link
+197,ETid-790,ITALY,2021-07-22,"2,500,000",Deliveroo Italy s.r.l.,"Art. 5 (1) a), c), e) GDPR, Art. 13 GDPR, Art. 22 (3) GDPR, Art. 25 GDPR, Art. 30 (1) c), f), g) GDPR, Art. 32 GDPR, Art. 35 GDPR, Art. 37 (7) GDPR",Non-compliance with general data processing principles,link
+198,ETid-789,SPAIN,2021-08-02,"3,000",Club Náutico el Estacio,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+199,ETid-788,SPAIN,2021-07-27,"60,000",PRA Iberia S.L.,"Art. 6 (1) GDPR, Art. 15 GDPR",Insufficient legal basis for data processing,link
+283,ETid-787,ROMANIA,2021-07-30,200,Private Individual,"Art. 5 (1) a), b), (2) GDPR, Art. 6 (1) GDPR, Art. 14 (1), (4) GDPR",Insufficient legal basis for data processing,link
+284,ETid-786,FINLAND,2021-07-05,"25,000",Higher Education Institution,"Art. 5 (1) c) GDPR, Art. 6 GDPR, § 3 Law 759/2004",Non-compliance with general data processing principles,link link
+285,ETid-785,SPAIN,2021-07-27,"2,000",Owners Association,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+286,ETid-784,SPAIN,2021-07-27,900,Owners Association,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+287,ETid-783,SPAIN,2021-07-27,"2,400",PODEMOS PARTIDO POLÍTICO,"Art. 5 (1) c) GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+288,ETid-782,SPAIN,2021-07-27,"10,000","PERSONAL MARK, S.L.",Art. 17 GDPR,Insufficient fulfilment of data subjects rights,link
+289,ETid-781,SPAIN,2021-07-27,"1,000","NEXTSTEPAGENCY, S.L.",Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+290,ETid-780,SPAIN,2021-07-27,500,Website operator,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+291,ETid-779,SPAIN,2021-07-29,"3,000","UNIVERSIDAD A DISTANCIA DE MADRID, S.A.","Art. 17 (1) GDPR, Art. 21 LSSI",Insufficient fulfilment of data subjects rights,link
+292,ETid-778,LUXEMBOURG,2021-07-16,"746,000,000",Amazon Europe Core S.à.r.l.,Unknown,Non-compliance with general data processing principles,link
+293,ETid-777,SPAIN,2021-07-26,"2,520,000",Mercadona S.A.,"Art. 5 (1) c) GDPR, Art. 6 GDPR, Art. 9 GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 25 (1) GDPR, Art. 35 GDPR",Insufficient legal basis for data processing,link
+294,ETid-776,FRANCE,2021-07-26,"400,000",Monsanto Company,"Art. 14 GDPR, Art. 28 GDPR",Insufficient fulfilment of information obligations,link
+295,ETid-775,SPAIN,2021-07-26,"2,000",Fincas Miguel García S.L.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+296,ETid-774,SPAIN,2021-07-26,"2,000",Intersumi S.C.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+297,ETid-773,ITALY,2021-05-27,"150,000",Azienda Provinciale per i Servizi Sanitari di Trento,"Art. 5 (1) a), f) GDPR, Art. 9 GDPR",Non-compliance with general data processing principles,link
+298,ETid-772,ITALY,2021-05-27,"120,000",Azienda Usl della Romagna,"Art. 5 (1) f) GDPR, Art. 9 GDPR",Non-compliance with general data processing principles,link
+299,ETid-771,FRANCE,2021-07-20,"1,750,000",SGAM AG2R LA MONDIALE,"Art. 5 (1) e) GDPR, Art. 13 GDPR, Art. 14 GDPR",Non-compliance with general data processing principles,link
+300,ETid-770,THE NETHERLANDS,2021-04-09,"750,000",TikTok,Art. 12 GDPR,Insufficient fulfilment of information obligations,link
+301,ETid-769,POLAND,2021-06-30,"3,000",Fundację Promocji Mediacji i Edukacji Prawnej Lex Nostra,"Art. 33 (1) GDPR, Art. 34 (1) GDPR",Insufficient fulfilment of data breach notification obligations,link
+302,ETid-768,SPAIN,2021-07-12,"45,000","Telefónica Móviles España, S.A.U.",Art. 6 GDPR,Insufficient legal basis for data processing,link
+303,ETid-767,GREECE,2021-07-08,"5,000",Pediatrician,"Art. 12 (1) GDPR, Art. 15 (1) GDPR",Insufficient fulfilment of data subjects rights,link
+304,ETid-766,SPAIN,2021-07-01,"6,000",Private Individual,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+305,ETid-765,SPAIN,2021-07-01,"1,000",Unknown,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+306,ETid-764,SPAIN,2021-07-07,"2,000",Homeowners Association,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+307,ETid-763,SPAIN,2021-07-02,"1,500",Private Individual,Art. 6 (1) a) GDPR,Insufficient legal basis for data processing,link
+308,ETid-762,SPAIN,2021-07-06,"4,200",Marbella Resorts S.L.,Art. 28 (3) GDPR,Insufficient data processing agreement,link
+309,ETid-761,SPAIN,2021-07-09,"1,500",Aparcamiento Arcusa S.L.U.,"Art. 5 (1) c) GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+310,ETid-760,LUXEMBOURG,2021-06-29,"12,500",Unknown,"Art. 5 (1) c) GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+311,ETid-759,DENMARK,2021-07-16,"67,900",Region of Syddanmark,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+312,ETid-758,GERMANY,2020,"7,000",Unknown,Art. 58 (1) f) GDPR,Insufficient cooperation with supervisory authority,link
+313,ETid-757,DENMARK,2021-07-09,"80,700",Medicals Nordic I/S,Unknown,Non-compliance with general data processing principles,link
+314,ETid-756,CROATIA,2021-07-05,Unknown,Insurance company,"Art. 13 GDPR, Art. 14 GDPR, Art 27 (1) of the National Implementation Law",Insufficient fulfilment of information obligations,link
+315,ETid-755,SPAIN,2021-07-08,"4,000",Malagatrom S.L.U.,Art. 6 GDPR,Insufficient legal basis for data processing,link
+316,ETid-754,SPAIN,2021-07-08,"50,000",Caixabank S.A.,Art. 6 (1) f) GDPR,Insufficient legal basis for data processing,link
+317,ETid-753,LUXEMBOURG,2021-06-11,"15,000",Unknown,"Art. 38 (1), (3) GDPR, Art. 39 (1) a), b) GDPR",Lack of appointment of data protection officer,link
+318,ETid-752,UNITED KINGDOM,2021-07-05,"29,000",Mermaids,"Art. 5 (1) f) GDPR, Art. 32 (1), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+319,ETid-751,THE NETHERLANDS,2021-05-31,"450,000",UWV (Dutch employee insurance service provider),Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+320,ETid-750,ITALY,2021-06-10,"20,000",Dentist,"Art. 5 (1) a), c) GDPR",Insufficient legal basis for data processing,link
+321,ETid-749,LUXEMBOURG,2021-06-11,"7,600",Unknown,"Art. 5 (1) c) GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+322,ETid-748,LUXEMBOURG,2021-06-11,"7,200",Unknown,"Art. 5 (1) c), e) GDPR, Art. 13 GDPR, Art. 32 (1) GDPR",Non-compliance with general data processing principles,link
+323,ETid-747,ITALY,2021-05-13,"84,000",Comune di Bolzano,"Art. 5 (1) a), c) GDPR, Art. 6 GDPR, Art. 9 GDPR, Art. 13 GDPR, Art. 35 GDPR",Non-compliance with general data processing principles,link
+324,ETid-746,DENMARK,2021-07-07,"53,800",Nordbornholms Byggeforretning Aps,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+325,ETid-745,CROATIA,2021-07-05,Unknown,IT services company,"Art. 32 (1) b), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+326,ETid-744,FINLAND,2021-06-24,"8,500",Magazine publisher,"Art. 5 (1) a) GDPR, Art. 7 (2), (4) GDPR, Art. 12 (2) GDPR, Art. 21 (2) GDPR, Art. 24 (1) GDPR, Art. 28 (1), (3) GDPR",Insufficient legal basis for data processing,link
+327,ETid-743,ITALY,2021-06-10,"2,600,000",Foodinho s.r.l.,"Art. 5 (1) a), c), e) GDPR, Art. 13 GDPR, Art. 22 (3) GDPR, Art. 25 GDPR, Art. 30 (1) a), b), c), f), g) GDPR, Art. 32 GDPR, Art. 35 GDPR, Art. 37 (7) GDPR",Non-compliance with general data processing principles,link
+328,ETid-742,LUXEMBOURG,2021-04-08,"2,800",Unknown,"Art. 5 (1) e) GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+329,ETid-741,POLAND,2021-06-21,"35,300",Sopockie Towarzystwo Ubezpieczeń ERGO Hestia S.A.,"Art. 33 (1) GDPR, Art. 34 (1) GDPR",Insufficient fulfilment of data breach notification obligations,link
+330,ETid-740,ICELAND,2021-06-15,"34,000",Huppuís ehf,"Art. 5 (1) a), c) GDPR, Art. 6 (1) GDPR, Art. 12 (1) GDPR, Art. 13 (1), (2) GDPR",Non-compliance with general data processing principles,link
+331,ETid-739,LITHUANIA,2020,"8,000",Unknown,"Art. 5 GDPR, Art. 13 GDPR, Art. 24 GDPR, Art. 35 GDPR",Non-compliance with general data processing principles,link
+332,ETid-738,NORWAY,2021-06-04,"49,200",Moss municipality,"Art. 32 (1) b), d) GDPR",Insufficient technical and organisational measures to ensure information security,link
+333,ETid-737,ITALY,2021-05-13,"2,856,169",Iren Mercato S.p.A.,"Art. 5 (1), (2) GDPR, Art. 6 (1) GDPR, Art. 7 (1) GDPR",Insufficient legal basis for data processing,link
+334,ETid-736,SPAIN,2021-06-22,"10,000","TNT EXPRESS WORLDWIDE SPAIN, S.L.",Art. 5 (1) d) GDPR,Non-compliance with general data processing principles,link
+335,ETid-735,NORWAY,2021-06-22,"24,800",Unknown,"Art. 5 GDPR, Art. 6 GDPR, Art. 13 GDPR, Art. 17 GDPR, Art. 21 GDPR",Insufficient legal basis for data processing,link
+336,ETid-734,FRANCE,2021-06-14,"500,000",BRICO PRIVÉ,"Art. 5 (1) e) GDPR, Art. 13 GDPR, Art. 17 GDPR, Art. 32 GDPR, Art. 82 Loi informatique et libertés, Art. L. 34-5 CPCE",Non-compliance with general data processing principles,link
+337,ETid-733,SWEDEN,2021-06-21,"1,600,000",Storstockholms Lokaltrafik,"Art. 5 (1) a), c) GDPR, Art. 6 (1) f) GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+338,ETid-732,LITHUANIA,2021-06-21,"20,000",UAB VS FITNESS,"Art. 5 (1) a), c) GDPR, Art. 9 (1) GDPR, Art. 13 (1), (2) GDPR, Art. 30 GDPR, Art. 35 (1) GDPR",Non-compliance with general data processing principles,link
+339,ETid-731,GREECE,2021-06-03,"15,000",PURPLE SEA MΟΝΟΠΡΟΣΩΠΗ ΙΚΕ,"Art. 5 (1) a), b) GDPR, Art. 5 (2) GDPR",Non-compliance with general data processing principles,link
+340,ETid-730,DENMARK,2021-06-16,"27,000",Vejle Municipality,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+341,ETid-729,POLAND,2021-03-19,"4,900",Funeda Sp. z o.o.,"Art. 31 GDPR, Art. 58 (1) a), e) GDPR",Insufficient cooperation with supervisory authority,link
+342,ETid-728,ROMANIA,2021-06-09,"2,000",La Santrade S.R.L.,"Art. 31 GDPR, Art. 58 GDPR",Insufficient cooperation with supervisory authority,link
+343,ETid-727,SPAIN,2021-06-14,"1,200",Inmopiso Zaragoza S.L.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+344,ETid-726,LUXEMBOURG,2021-05-31,"18,000",Unknown,"Art. 38 (1), (2) GDPR, Art. 39 (1) a) GDPR",Lack of appointment of data protection officer,link
+345,ETid-725,THE NETHERLANDS,2021-02-04,"12,000",Orthodontic Clinic,Art. 32 (1) GDPR,Insufficient technical and organisational measures to ensure information security,link
+346,ETid-724,LIECHTENSTEIN,2020,"4,100",Unknown,Unknown,Non-compliance with general data processing principles,link
+347,ETid-723,NORWAY,2021-05-28,"39,700",BRAbank ASA,"Art. 24 GDPR, Art. 32 (1), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+348,ETid-722,SWEDEN,2021-06-09,"34,800",Directorate of the Östra Skaraborg Rescue Service,"Art. 5 (1) a), c) GDPR, Art. 32 (1), (4) GDPR",Non-compliance with general data processing principles,link
+349,ETid-721,POLAND,2021-04-27,"5,050",PNP S.A.,"Art. 31 GDPR, Art. 58 (1) e) GDPR",Insufficient cooperation with supervisory authority,link
+350,ETid-720,ROMANIA,2021-06-09,"2,000",S.C. Dreamtime Call S.R.L.,"Art. 31 GDPR, Art. 58 GDPR",Insufficient cooperation with supervisory authority,link
+351,ETid-719,SWEDEN,2021-06-07,"64,500",Voice Integrate Nordic AB,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+352,ETid-718,SWEDEN,2021-06-07,"1,200,000",MedHelp AB,"Art. 5 (1) a), f) GDPR, Art. 6 GDPR, Art. 9 (1) GDPR, Art. 13 GDPR, Art. 32 GDPR",Non-compliance with general data processing principles,link
+353,ETid-717,SWEDEN,2021-06-07,"50,000",Region Stockholm,"Art. 5 (1) a) GDPR, Art. 13 GDPR, Art. 14 GDPR",Insufficient fulfilment of information obligations,link
+354,ETid-716,SWEDEN,2021-06-07,"25,000",Region Värmland,"Art. 5 (1) a) GDPR, Art. 13 GDPR",Insufficient fulfilment of information obligations,link
+355,ETid-715,SWEDEN,2021-06-07,"25,000",Region Sörmland,"Art. 5 (1) a) GDPR, Art. 13 GDPR",Insufficient fulfilment of information obligations,link
+356,ETid-714,LUXEMBOURG,2021-05-12,"1,000",Unknown,"Art. 5 (1) c) GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+357,ETid-713,LUXEMBOURG,2021-05-12,"2,600",Unknown,"Art. 5 (1) c) GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+358,ETid-712,LUXEMBOURG,2021-05-12,"2,400",Unknown,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+359,ETid-711,LUXEMBOURG,2021-05-12,"1,900",Unknown,"Art. 5 (1) c), e) GDPR",Non-compliance with general data processing principles,link
+360,ETid-710,SPAIN,2021-06-07,"19,600",Radiotelevisión del principado de Asturias,"Art. 5 (1) c) GDPR, Art. 12 GDPR",Non-compliance with general data processing principles,link
+361,ETid-709,SPAIN,2021-06-07,"20,000",Master Distancia S.A.,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+362,ETid-708,SPAIN,2021-06-04,"6,000",Creator Energy S.L.,Art. 6 (1) b) GDPR,Insufficient legal basis for data processing,link
+363,ETid-707,ITALY,2021-04-15,"12,000",Istituto Nazionale Previdenza Sociale (INPS),"Art. 5 (1) a) GDPR, Art. 12 GDPR, Art. 15 GDPR",Insufficient fulfilment of data subjects rights,link
+364,ETid-706,SPAIN,2021-06-02,"4,000","Avalos Consultores, S.L.",Art. 6 GDPR,Insufficient legal basis for data processing,link
+365,ETid-705,SPAIN,2021-05-21,"45,000","Telefónica de España, S.A.U",Art. 6 GDPR,Insufficient legal basis for data processing,link
+366,ETid-704,ITALY,2021-04-21,"15,000",Fondazione Policlinico Tor Vergata di Roma,"Art. 5 (1) a), f) GDPR, Art. 13 GDPR, Art. 25 GDPR, Art. 32 GDPR",Non-compliance with general data processing principles,link
+367,ETid-703,GREECE,2021-05-12,"5,000",KARIERA A.E.,"Art. 17 GDPR, Art. 21 GDPR, Art. 25 GDPR",Insufficient fulfilment of data subjects rights,link
+368,ETid-702,SPAIN,2021-05-21,"3,000",Homeowners Association,"Art. 5 (1) c) GDPR, Art. 12 GDPR",Non-compliance with general data processing principles,link
+369,ETid-701,SPAIN,2021-05-27,"2,000",Private Individual,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+370,ETid-700,NORWAY,2021-05-18,"95,500",Innovasjon Norge,"Art. 5 (1) GDPR, Art. 6 (1) GDPR",Insufficient legal basis for data processing,link
+371,ETid-699,GREECE,2021-05-17,"10,000",Municipal Organization for Pre-School Education and Social Solidarity (DOPAKA) of the municipality of Tavros Moschato,"Art. 6 (1) c) GDPR, Art. 12 (3), (4) GDPR, Art. 17 (1) d) GDPR",Insufficient legal basis for data processing,link
+372,ETid-698,ITALY,2021-03-25,"7,000",TECNOMEDICAL S.r.l.,"Art. 12 (3) GDPR, Art. 15 GDPR",Insufficient fulfilment of data subjects rights,link
+373,ETid-697,SPAIN,2021-05-26,"3,000","Vodafone España, S.A.U.",Art. 58 (1) GDPR,Insufficient cooperation with supervisory authority,link
+374,ETid-696,SPAIN,2021-05-25,"6,000","Desolasol Restauración, S.L.",Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+375,ETid-695,SPAIN,2021-05-25,"4,000","Alava Norte, S.L.",Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+376,ETid-694,SPAIN,2021-05-25,"100,000","Vodafone España, SAU",Art. 28 GDPR,Insufficient technical and organisational measures to ensure information security,link
+377,ETid-693,HUNGARY,2021-04-27,570,Company,"Art. 5 (1) a), (2) GDPR, Art. 6 GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+378,ETid-692,HUNGARY,2021-04-27,"1,400",Company,"Art. 5 (1), (2) GDPR, Art. 6 GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+379,ETid-691,SPAIN,2021-05-25,900,Managing Director of a company,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+380,ETid-690,SPAIN,2021-05-21,"3,000",Physician,Art. 6 GDPR,Insufficient legal basis for data processing,link
+381,ETid-689,IRELAND,2021-03-23,"90,000",Irish Credit Bureau DAC,"Art. 5 (2) GDPR, Art. 24 (1) GDPR, Art. 25 (1) GDPR",Insufficient technical and organisational measures to ensure information security,link
+382,ETid-688,NORWAY,2021-05-20,"39,000",Municipality of Oslo,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+383,ETid-687,THE NETHERLANDS,2020-03-24,"15,000",CP&A,"Art. 9 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+384,ETid-686,ITALY,2021-04-15,"40,000",Comune di Palermo,"Art. 5 (1) f) GDPR, Art. 25 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+385,ETid-685,ROMANIA,2021-05-19,"2,000",Banca Comercială Română S.A.,"Art. 5 (1) a), d), (2) GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+386,ETid-684,ROMANIA,2021-05-19,500,Owners Association of Iasi Municipality,"Art. 58 (1) a), e) GDPR",Insufficient cooperation with supervisory authority,link
+387,ETid-683,ITALY,2021-04-15,"5,000",Physician,"Art. 5 (1) a), c) GDPR, Art. 6 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+388,ETid-682,ITALY,2021-04-15,"2,000",Società triveneta di chirurgia,"Art. 5 (1) a), c) GDPR, Art. 6 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+389,ETid-681,POLAND,2021-04-22,"245,000",Cyfrowy Polsat S.A.,"Art. 24 (1) GDPR, Art. 32 (1), (2) GDPR, Art. 34 (1) GDPR",Insufficient technical and organisational measures to ensure information security,link
+390,ETid-680,GREECE,2021-05-12,"5,000",A. ΕΠΙΛΟΓΗ ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ,"Art. 5 (1) a), b) GDPR, Art. 12 (3) GDPR, Art. 15 GDPR, Art. 17 GDPR",Non-compliance with general data processing principles,link
+391,ETid-679,HUNGARY,2021-03-25,"1,425",Operator of a care facility,"Art. 5 (1) a), b), c) GDPR, Art. 6 GDPR, Art. 13 (1), (2) GDPR",Insufficient legal basis for data processing,link
+392,ETid-678,THE NETHERLANDS,2020-12-20,"525,000",Locatefamily.com,Art. 27 GDPR,Non-compliance with general data processing principles,link
+393,ETid-677,SPAIN,2021-05-14,"30,000","Allianz Compañia de Seguros y Reaseguros, S.A.",Art. 6 GDPR,Insufficient legal basis for data processing,link
+394,ETid-676,ROMANIA,2021-05-13,"2,000",Telekom Romania Communications SA,"Art. 6 GDPR, Art. 21 GDPR",Insufficient fulfilment of data subjects rights,link
+395,ETid-675,ROMANIA,2021-05-14,200,Website operator,"Art. 5 (1) a), b), (2) GDPR, Art. 6 (1) GDPR, Art. 13 (1), (2), (3) GDPR, Art. 32 (2) GDPR",Non-compliance with general data processing principles,link
+396,ETid-674,ITALY,2021-03-25,"4,000",Comune di Castellanza,"Art. 5 (1) a), c) GDPR, Art. 6 (1) c), e) GDPR, Art. 6 (2) GDPR, Art. 6 (3) b) GDPR",Insufficient legal basis for data processing,link
+397,ETid-673,SPAIN,2021-05-12,"3,000",Solram T Y R S.L.,Art. 17 GDPR,Insufficient fulfilment of data subjects rights,link
+398,ETid-672,THE NETHERLANDS,2020-06-16,"7,500",PVV Overijssel,Art. 33 GDPR,Insufficient fulfilment of data breach notification obligations,link
+399,ETid-671,SPAIN,2021-05-04,"1,500,000","EDP Energía, S.A.U","Art. 13 GDPR, Art. 25 GDPR",Insufficient fulfilment of information obligations,link
+400,ETid-670,SPAIN,2021-05-04,"1,500,000","EDP Comercializadora, S.A.U.","Art. 13 GDPR, Art. 25 GDPR",Insufficient fulfilment of information obligations,link
+401,ETid-669,ICELAND,2021-04-29,"23,100",InfoMentor ehf,"Art. 32 (1) b), d) GDPR",Insufficient technical and organisational measures to ensure information security,link
+402,ETid-668,ROMANIA,2021-05-07,"2,000",World Class România S.A.,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+403,ETid-667,NORWAY,2021-05-05,Only intention to issue fine,Disqus Inc.,"Art. 5 (1), (2) GDPR, Art. 6 GDPR, Art. 12 GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+404,ETid-666,HUNGARY,2021-03-24,"27,700",Budapest Főváros Kormányhivatala XI. kerületi Hivatalát (11th District Public Health Department of the Government Office of the Capital City Budapest),"Art. 32 (1) a), b) GDPR, Art. 32 (2) GDPR, Art. 33 (1) GDPR, Art. 34 (1) GDPR",Insufficient technical and organisational measures to ensure information security,link
+405,ETid-665,FINLAND,2021-04-21,"75,000",ParkkiPate Oy,"Art. 5 (1) c) GDPR, Art. 12 (3), (4), (6) GDPR, Art. 14 (2) a) GDPR, Art. 14 (3) GDPR, Art. 15 GDPR, Art. 17 (1) a) GDPR, Art. 25 (2) GDPR",Insufficient fulfilment of data subjects rights,link
+406,ETid-664,BELGIUM,2021-04-26,"100,000",Financial company,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+407,ETid-663,ITALY,2021-03-25,"20,000",GEDI News Network Spa,"Art. 12 (3), (4) GDPR",Insufficient legal basis for data processing,link
+408,ETid-662,ITALY,2021-03-25,"30,000",OneDirect Srl,"Art. 6 (1) GDPR, Art. 7 (1) GDPR, Art. 30 GDPR, Art. 31 GDPR",Insufficient legal basis for data processing,link
+409,ETid-661,ITALY,2021-03-11,"80,000",Planet Group Spa,"Art. 5 (1) a) GDPR, Art. 6 (1) GDPR, Art. 21 (2), (3) GDPR, Art. 12 (3) GDPR, Art. 25 (1) GDPR",Insufficient legal basis for data processing,link
+410,ETid-660,ITALY,2021-03-11,"15,000",Mediacom s.r.l.,"Art. 5 (1) a) GDPR, Art. 6 (1) GDPR",Insufficient legal basis for data processing,link
+411,ETid-659,THE NETHERLANDS,2021-03-11,"600,000",Municipality of Enschede,"Art. 5 (1) a) GDPR, Art. 6 (1) GDPR",Insufficient legal basis for data processing,link
+412,ETid-658,SPAIN,2021-04-27,"15,000",Anytime Fitness Iberia S.L.,"Art. 17 GDPR, Art. 21 LSSI",Insufficient fulfilment of data subjects rights,link
+413,ETid-657,SPAIN,2021-04-27,"3,000",Pagamastarde S.L.,"Art. 17 (1) GDPR, Art. 21 LSSI",Insufficient fulfilment of data subjects rights,link
+414,ETid-656,SPAIN,2021-04-23,"1,000,000",Equifax Iberica S.L.,"Art. 5 (1) a), b), c), d) GDPR, Art. 6 (1) GDPR, Art. 14 GDPR",Insufficient legal basis for data processing,link
+415,ETid-655,CZECH REPUBLIC,2020,"19,200",Unknown,"Art. 5 (1) a) GDPR, Art. 6 (1) GDPR, Art. 12 (2), (3), Art. 15 GDPR, Art. 16 GDPR, Art. 17 GDPR, Art. 18 GDPR, Art. 19 GDPR, Art. 20 GDPR, Art. 21 GDPR, Art. 22 GDPR",Non-compliance with general data processing principles,link
+416,ETid-654,CZECH REPUBLIC,2020,Unknown,Unknown,Art. 5 (1) a) GDPR,Insufficient legal basis for data processing,link
+417,ETid-653,CZECH REPUBLIC,2020,Unknown,Municipality,"Art. 5 (1) a) GDPR, Art. 6 (1) GDPR, Art. 13 GDPR, Art. 14 (3) GDPR",Insufficient legal basis for data processing,link
+418,ETid-652,CZECH REPUBLIC,2020,"3,850",Television broadcaster,Art. 12 (1) GDPR,Insufficient fulfilment of information obligations,link
+419,ETid-651,CZECH REPUBLIC,2020,Unknown,Unknown,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+420,ETid-650,CZECH REPUBLIC,2020,Unknown,Bank,"Art. 48 (1) b) LGT, Art. 21 GDPR, Art. 23 (4) LOPDGDD",Non-compliance with general data processing principles,link
+421,ETid-649,CZECH REPUBLIC,2020,Unknown,Healthcare provider,"Art. 5 (1) a) GDPR, Art. 12 (1) GDPR, Art. 28 (2), (3) GDPR",Insufficient fulfilment of information obligations,link
+422,ETid-648,CZECH REPUBLIC,2020,Unknown,Public university,"Art. 6 (1) GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+423,ETid-647,ITALY,2021-03-11,"3,000",Comune di San Marco in Lamis,"Art. 5 (1) a), c) GDPR, Art. 6 (1) c), e) GDPR, Art. 6 (2) GDPR, Art. 6 (3) b) GDPR",Insufficient legal basis for data processing,link
+424,ETid-646,GREECE,2021-04-16,"2,000",Candidate for parliamentary elections,"Art. 15 GDPR, Art. 11 Law 3471/2006",Insufficient fulfilment of data subjects rights,link
+425,ETid-645,SPAIN,2021-04-22,"4,000",HazteOir.Org,Art. 6 GDPR,Insufficient legal basis for data processing,link
+426,ETid-644,SPAIN,2021-04-22,"1,500",Private Individual,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+427,ETid-643,NORWAY,2021-03-21,"19,900",Basaren Drift AS,"Art. 5 GDPR, Art. 6 GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+428,ETid-642,SPAIN,2021-04-20,"8,000",Highcliffe Estates Marbella S.L.,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+429,ETid-641,CZECH REPUBLIC,2020,"1,900",Unknown,"Art. 12 (2) GDPR, Art. 15 (1) GDPR",Insufficient fulfilment of data subjects rights,link
+430,ETid-640,CZECH REPUBLIC,2020-05-26,Unknown,Unknown,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+431,ETid-639,CZECH REPUBLIC,2020,387,Private healthcare provider,"Art. 24 GDPR, Art. 32 (1) GDPR",Insufficient technical and organisational measures to ensure information security,link
+432,ETid-638,SPAIN,2021-04-19,"1,500",Pub owner,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+433,ETid-637,ROMANIA,2021-04-19,"1,500",Lugera & Makler Broker S.R.L.,"Art. 29 GDPR, Art. 32 (2), (4) GDPR",Insufficient technical and organisational measures to ensure information security,link
+434,ETid-636,SPAIN,2021-04-13,"90,000","Vodafone España, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+435,ETid-635,SPAIN,2021-04-15,"3,000",Private Individual,"Art. 5 (1) c) GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+436,ETid-634,GREECE,2020-04-07,"2,000",Ιγνατιάδης Νικόλαος και ΣΙΑ Ε.Ε.,"Art. 5 (1) c) GDPR, Art. 6 (1) f) GDPR",Non-compliance with general data processing principles,link
+437,ETid-633,ROMANIA,2021-04-15,"5,000",S.C. Tip Top Food Industry S.R.L,"Art. 5 (1) b), c) GDPR, Art. 5 (2) GDPR, Art. 6 GDPR, Art. 7 GDPR",Insufficient legal basis for data processing,link
+438,ETid-632,CZECH REPUBLIC,2020,Unknown,Ski rental company,"Art. 5 (1) c) GDPR, Art. 6 (1) GDPR, Art. 7 (1) GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 15 GDPR, Art. 16 GDPR, Art. 17 GDPR, Art. 18 GDPR, Art. 19 GDPR, Art. 20 GDPR, Art. 21 GDPR",Non-compliance with general data processing principles,link
+439,ETid-631,CZECH REPUBLIC,2020,"2,700",Mall.tv,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+440,ETid-630,SPAIN,2021-04-08,"60,000","Kutxabank, S.A.",Art. 17 GDPR,Insufficient fulfilment of data subjects rights,link
+441,ETid-629,ITALY,2021-02-25,"6,000",Azienda Ospedaliera Universitaria Careggi,"Art. 5 GDPR, Art. 9 GDPR",Non-compliance with general data processing principles,link
+442,ETid-628,NORWAY,2021-04-09,"3,400",Miljø- og Kvalitetsledelse AS,"Art. 5 (1) a) GDPR, Art. 6 (1) GDPR",Insufficient legal basis for data processing,link
+443,ETid-627,NORWAY,2021-03-15,"100,000",Asker Municipality,"Art. 5 GDPR, Art. 6 GDPR, Art. 32 (1) b) GDPR, Art. 24 GDPR",Insufficient technical and organisational measures to ensure information security,link
+444,ETid-626,GREECE,2021-03-22,"2,000",Candidate for parliamentary elections,"Art. 15 GDPR, Art. 11 Law 3471/2006",Insufficient fulfilment of data subjects rights,link
+445,ETid-625,ITALY,2021-02-11,"45,000",Istituti ospedalieri bergamaschi,"Art. 5 (1) a), f) GDPR, Art. 9 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+446,ETid-624,SPAIN,2021-04-06,"2,400",Promotech Digital S.L.,Art. 21 GDPR,Insufficient fulfilment of data subjects rights,link
+447,ETid-623,SPAIN,2021-04-05,"4,000",Stockhunters S.L.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+448,ETid-622,SPAIN,2021-04-05,"3,000",Electrotecnica Bastida S.L.,Art. 32 (1) GDPR,Insufficient technical and organisational measures to ensure information security,link
+449,ETid-621,SPAIN,2021-04-05,"3,000",Kukimbia S.L.,Art. 32 (1) GDPR,Insufficient technical and organisational measures to ensure information security,link
+450,ETid-620,ITALY,2021-03-25,"4,500,000",Fastweb S.p.A.,"Art. 5 GDPR, Art. 6 GDPR, Art. 7 GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 21 GDPR, Art. 24 GDPR, Art. 25 GDPR, Art. 32 GPDR, Art. 33 (1) GDPR, Art. 34 (1) GDPR",Non-compliance with general data processing principles,link
+451,ETid-619,ITALY,2021-02-25,"4,000","Ministero dell’Istruzione, Ufficio Scolastico Regionale per il Lazio","Art. 5 (1) a) GDPR, Art. 6 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+452,ETid-618,ITALY,2021-02-11,"60,000",Roma Servizi per La Mobilita S.r.l.,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+453,ETid-617,ITALY,2021-02-11,"350,000",Roma Capitale,"Art. 5 GDPR, Art. 6 GDPR, Art. 28 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+454,ETid-616,ITALY,2021-02-25,"20,000",Gedi Gruppo Editoriale S.p.A.,Art. 5 (1) a) GDPR,Insufficient legal basis for data processing,link
+455,ETid-615,ITALY,2021-02-11,"5,000",Fondazione di religione e di culto “Casa sollievo della sofferenza” Opera di San Pio da Pietrelcina,"Art. 5 (1) a), f) GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+456,ETid-614,ITALY,2021-02-25,"6,000",Comune di Commezzadura,"Art. 5 (1) a), c) GDPR, Art. 6 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+457,ETid-613,ROMANIA,2021-03-30,"10,000",Telekom Romania Mobile Communications S.A.,"Art. 32 (1), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+458,ETid-612,THE NETHERLANDS,2020-12-10,"475,000",Booking.com B.V.,Art. 33 GDPR,Insufficient fulfilment of data breach notification obligations,link
+459,ETid-611,NORWAY,2021-03-08,"14,900",Dragefossen AS,"Art. 5 (1) a) GPDR, Art. 6 (1) GDPR",Insufficient legal basis for data processing,link
+460,ETid-610,ITALY,2021-02-25,"2,000",Comune di Conflenti,"Art. 5 (1) a), c) GDPR, Art. 6 (1) c), e) GDPR, Art. 6 (2) GDPR, Art. 6 (3) b) GDPR",Insufficient legal basis for data processing,link
+461,ETid-609,SPAIN,2021-03-15,"600,000","Air Europa Lineas Aereas, SA.","Art. 32 (1) GDPR, Art. 33 GDPR",Insufficient technical and organisational measures to ensure information security,link
+462,ETid-608,NORWAY,2021-03-15,"4,900",Ålesund Municipality,"Art. 32 (1) b) GDPR, Art. 24 (1) GDPR, Art. 35 GDPR",Insufficient technical and organisational measures to ensure information security,link
+463,ETid-607,SPAIN,2021-03-23,"1,000","Laboratorio Octogón, S.L.",Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+464,ETid-606,ROMANIA,2021-03-23,"2,000",S.C. Medicover S.R.L.,"Art. 32 (1) b), (2), (4) GDPR",Insufficient technical and organisational measures to ensure information security,link
+465,ETid-605,SPAIN,2021-03-16,"60,000","Vodafone España, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+466,ETid-604,SPAIN,2021-03-18,"3,000",Asesoría Alpi-Clúa S.L.,"Art. 5 (1) f) GDPR, Art. 32 (1) GDPR",Non-compliance with general data processing principles,link
+467,ETid-603,SPAIN,2021-03-15,"2,000",Heredad de Urueña S.A.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+468,ETid-602,SPAIN,2021-03-15,"3,000",Cultural association,Art. 6 (1) a) GDPR,Insufficient legal basis for data processing,link
+469,ETid-601,BELGIUM,2021-03-15,"1,000",School,"Art. 5 (1) c) GDPR, Art. 6 (1) GDPR, Art. 8 GDPR",Insufficient legal basis for data processing,link
+470,ETid-600,ITALY,2021-01-14,"75,000",Regione Lazio,"Art. 5 (2) GDPR, Art. 28 GDPR",Insufficient data processing agreement,link
+471,ETid-599,ITALY,2021-02-11,"75,000",Ministero dello Sviluppo Economico,"Art. 5 (1) a), b), c) GDPR, Art. 6 (1) c), e) GDPR, Art. 6 (2) GDPR, Art. 6 (3) b) GDPR, Art. 37 (1), (7) GDPR",Non-compliance with general data processing principles,link
+472,ETid-598,ITALY,2020-12-17,"2,000",Ordine degli Assistenti Sociali della Regione Lazio,"Art. 12 (3), (4) GDPR",Insufficient fulfilment of data subjects rights,link
+473,ETid-597,SPAIN,2021-03-15,"5,000",Certime S.A.,Art. 5 (1) b) GDPR,Non-compliance with general data processing principles,link
+474,ETid-596,SPAIN,2021-03-12,"12,000","NBQ Technology, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+475,ETid-595,SPAIN,2021-03-12,"1,500",Private Person,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+476,ETid-594,SPAIN,2021-03-11,"8,150,000","Vodafone España, S.A.U.","Art. 28 GDPR, Art. 24 GDPR, Art. 44 GDPR, Art. 21 LSSI, Art. 48 (1) b) LGT, Art. 21 GDPR, Art. 23 LOPDGDD",Insufficient fulfilment of data subjects rights,link
+477,ETid-593,SPAIN,2021-03-10,"90,000",Xfera Moviles S.A.,"Art. 5 (1) f) GDPR, Art. 17 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+478,ETid-592,SPAIN,2021-03-10,"50,000",Equifax Iberica S.L.,Art. 6 (1) f) GDPR,Insufficient legal basis for data processing,link
+479,ETid-591,ITALY,2021-02-25,"300,000",Istituto Nazionale Previdenza Sociale (INPS),"Art. 5 (1) a), c), d) GDPR, Art. 25 GDPR, Art. 35 GDPR",Non-compliance with general data processing principles,link
+480,ETid-590,ITALY,2020-12-17,"10,000",Comune di Luino,"Art. 5 (1) a), c) GDPR, Art. 6 (1) c), e) GDPR, Art. 6 (2) GDPR, Art. 6 (3) b) GDPR, Art. 37 (1) a) GDPR, Art. 37 (7) GDPR",Non-compliance with general data processing principles,link
+481,ETid-589,ITALY,2020-12-17,"4,000",Comune di Santo Stefano Belbo,"Art. 5 (1) a), c) GDPR, Art. 6 (1) c), e) GDPR, Art. 6 (2) GDPR, Art. 6 (3) b) GDPR",Non-compliance with general data processing principles,link
+482,ETid-588,SPAIN,2021-03-10,"8,000",Filigrana Comunicación S.L.U.,"Art. 6 (1) GDPR, Art. 13 GPDR, Art. 14 GDPR",Insufficient fulfilment of information obligations,link
+483,ETid-587,SPAIN,2021-03-10,"10,000",Hospital Campogrande DE,Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+484,ETid-586,GERMANY,2021-03-10,"300,000",VfB Stuttgart 1893 AG,Art. 5 (2) GDPR,Non-compliance with general data processing principles,link
+485,ETid-585,SPAIN,2021-03-09,"15,000",Homeowners Association,Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+486,ETid-584,POLAND,2021-01-11,"30,000",Enea S.A.,Art. 33 (1) GDPR,Insufficient fulfilment of data breach notification obligations,link
+487,ETid-583,POLAND,2021-01-15,"4,600",Anwara Sp. z.o.o.,"Art. 31 GDPR, Art. 58 (1) a) GDPR",Insufficient cooperation with supervisory authority,link
+488,ETid-582,ROMANIA,2021-03-04,500,Natural person holding the position of General Secretary for a political party in Bucharest,"Art. 32 (1), (2) GDPR, Art. 58 (1) a), e) GDPR",Insufficient technical and organisational measures to ensure information security,link
+489,ETid-581,CYPRUS,2021-03-03,"40,000",Electricity Authority of Cyprus,"Art. 6 (1) GDPR, Art. 9 (2) GDPR",Insufficient legal basis for data processing,link
+490,ETid-580,CYPRUS,2021-03-03,"6,000",KEPIDES,Art. 32 (4),Insufficient technical and organisational measures to ensure information security,link
+491,ETid-579,CYPRUS,2021-03-03,"10,000",Cypriot Real Estate Registration Authority,"Art. 12 GDPR, Art. 15 GDPR, Art. 31 GDPR, Art. 58 (1) e) GDPR",Insufficient fulfilment of information obligations,link
+492,ETid-578,CYPRUS,2021-03-03,"25,000",Hellenic Bank,"Art. 5 (1) e), f) GDPR, Art. 32 (1) b), c) GDPR, Art. 33 (1) GDPR",Insufficient technical and organisational measures to ensure information security,link
+493,ETid-577,SPAIN,2021-03-02,"200,000","I-DE Redes Eléctricas Inteligentes, S.A.U","Art. 5 (1) b), c) GDPR, Art. 6 (1) b) GDPR",Non-compliance with general data processing principles,link
+494,ETid-576,LITHUANIA,2021-03-02,"15,000",Registrų Centras,"Art. 32 (1) b), c) GDPR",Insufficient technical and organisational measures to ensure information security,link
+495,ETid-575,GERMANY,2021-03-03,0,Private Individual,"Art. 5 GDPR, Art. 32 GDPR",Non-compliance with general data processing principles,link
+496,ETid-574,SPAIN,2021-03-02,"9,000",Unknown,"Art. 6 GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+497,ETid-573,NORWAY,2021-03-02,"24,400",Unknown,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+498,ETid-572,LITHUANIA,2021-02-26,"3,000",IT sprendimai sėkmei,"Art. 5 (1), (2) GDPR, Art. 13 GDPR, Art. 24 GDPR, Art. 32 GDPR, Art. 35 GDPR, Art. 58 (2) f) GDPR",Non-compliance with general data processing principles,link
+499,ETid-571,LITHUANIA,2021-02-26,"12,000",Nacionaliniam visuomenės sveikatos centrui (NVSC),"Art. 5 (1), (2) GDPR, Art. 13 GDPR, Art. 24 GDPR, Art. 32 GDPR, Art. 35 GDPR, Art. 58 (2) f) GDPR",Non-compliance with general data processing principles,link
+500,ETid-570,IRELAND,2020-08-12,"85,000",Tusla Child and Family Agency,Art. 32 (1) GDPR,Insufficient technical and organisational measures to ensure information security,link
+501,ETid-569,HUNGARY,2020-12-10,"22,200",Budapesti Műszaki és Gazdaságtudományi Egyetem (Budapest University of Technology and Economics),"Art. 5 (1) a), b), c) GDPR, Art. 6 (1) GDPR, Art. 9 (2) GDPR, Art. 12 GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+502,ETid-568,HUNGARY,2020-12-16,"97,150",Unknown,"Art. 5 (1) c) GDPR, Art. 6 (1) GDPR, Art. 9 (1) GDPR, Art. 12 GDPR",Insufficient legal basis for data processing,link
+503,ETid-567,SPAIN,2021-02-24,"12,000",Avilon Center 2016 S.L.,"Art. 48 (1) b) LGT, Art. 21 GDPR, Art. 23 (4) LOPDGDD",Insufficient fulfilment of data subjects rights,link
+504,ETid-566,CROATIA,2021-02-22,Unknown,Security company (name not available at the moment),"Art. 32 (1) b), d) GDPR, Art. 32 (2), (4) GDPR",Insufficient technical and organisational measures to ensure information security,link
+505,ETid-565,SPAIN,2021-02-12,"1,600","Ripobruna 207, S.L.",Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+506,ETid-564,POLAND,2021-02-11,"22,200",Krajowa Szkoła Sądownictwa i Prokuratury,"Art. 5 (1) f) GDPR, Art. 25 (1) GDPR, Art. 28 (3) GDPR, Art. 32 (1), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+507,ETid-563,ITALY,2021-01-14,"18,000",Azienda Usl di Bologna,"Art. 5 (1) f) GDPR, Art. 9 GDPR",Non-compliance with general data processing principles,link
+508,ETid-562,ITALY,2021-01-14,"2,000",Poliambulatorio Talenti S.r.l.,"Art. 12 (3) GDPR, Art. 15 GDPR",Insufficient fulfilment of data subjects rights,link
+509,ETid-561,ITALY,2021-01-27,"50,000",Azienda Ospedaliero Universitaria di Parma,"Art. 5 (1) f) GDPR, Art. 9 GDPR",Non-compliance with general data processing principles,link
+510,ETid-560,ITALY,2021-01-27,"50,000",Azienda Ospedaliero Universitaria Senese,"Art. 5 (1) f) GDPR, Art. 9 GDPR",Non-compliance with general data processing principles,link
+511,ETid-559,ITALY,2021-01-27,"50,000",Azienda USL della Romagna,"Art. 5 (1) a), d), f) GDPR, Art. 9 GDPR, Art. 32 (1) b) GDPR",Non-compliance with general data processing principles,link
+512,ETid-558,ITALY,2021-01-14,"30,000",Azienda sanitaria provinciale di Enna,"Art. 5 (1) a) GDPR, Art. 6 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+513,ETid-557,SPAIN,2021-02-16,"1,000",The Washpoint S.L.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+514,ETid-556,ITALY,2021-01-14,"8,000",Agenzia regionale protezione ambientale Campania (ARPAC),"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+515,ETid-555,THE NETHERLANDS,2021-02-11,"440,000",OLVG,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link link
+516,ETid-554,SPAIN,2021-02-12,"120,000","Vodafone España, SAU","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+517,ETid-553,LATVIA,2021-02-09,"65,000",Lursoft IT SIA,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+518,ETid-552,IRELAND,2020-12-17,"70,000",University College Dublin,"Art. 5 (1) e), f) GDPR, Art. 32 (1) GDPR, Art. 33 (1) GDPR",Insufficient technical and organisational measures to ensure information security,link
+519,ETid-551,POLAND,2021-01-05,"19,000",Unknown,"Art. 34 (1), (2) GDPR, Art. 58 (2) e) GDPR",Insufficient fulfilment of data breach notification obligations,link
+520,ETid-550,ROMANIA,2021-02-10,"1,000",ING Bank N.V. Amsterdam - Bucharest office,"Art. 29 GDPR, Art. 32 (2), (4) GDPR",Insufficient technical and organisational measures to ensure information security,link
+521,ETid-549,SPAIN,2021-02-11,"24,000",Vamavi Phone S.L.,"Art. 48 (1) b) LGT, Art. 21 GDPR, Art. 23 LOPDGDD, Art. 28 GDPR",Insufficient fulfilment of data subjects rights,link
+522,ETid-548,SPAIN,2021-02-09,"5,000",Predase Servicios Integrales S.L.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+523,ETid-547,SPAIN,2021-02-08,"5,000",Private Person,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+524,ETid-546,SPAIN,2021-02-08,"3,000",Patio Ancestral S.L.,Art. 6 GDPR,Insufficient legal basis for data processing,link
+525,ETid-545,SPAIN,2021-02-04,"2,000",Private Person,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+526,ETid-544,SPAIN,2021-02-03,"100,000",Iberdrola Clientes,"Art. 5 (1) d) GDPR, Art. 17 GDPR",Insufficient fulfilment of data subjects rights,link
+527,ETid-543,ITALY,2020-11-26,"3,000",Charly Mike s.r.l.,"Art. 5 (1) a) GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+528,ETid-542,SPAIN,2021-02-01,"3,000","IDFINANCE Spain, S.L.",Art. 5 (1) f) GDPR,Insufficient technical and organisational measures to ensure information security,link
+529,ETid-541,SPAIN,2021-02-01,"24,000",Xfera Moviles S.A.,Art. 58 (2) GDPR,Insufficient cooperation with supervisory authority,link
+530,ETid-540,NORWAY,2021-02-03,"19,300",Cyberbook AS,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+531,ETid-539,ITALY,2020-12-17,"100,000",Azienda Unità Sanitaria Locale Toscana Sud Est,"Art. 5 (1) f) GDPR, Art. 13 GDPR, Art. 14 GDPR, Art. 28 GDPR, Art. 30 GDPR, Art. 32 GDPR, Art. 35 GDPR",Non-compliance with general data processing principles,link
+532,ETid-538,POLAND,2020-12-09,"2,850",Smart Cities Sp. z o.o.,"Art. 31 GDPR, Art. 58 GDPR",Insufficient cooperation with supervisory authority,link
+533,ETid-537,BELGIUM,2021-01-27,"50,000",Family Service / N.D.P.K. nv.,"Art. 5 GDPR, Art. 6 GDPR, Art. 7 GDPR, Art. 13 GDPR, Art. 24 GDPR, Art. 25 GDPR, Art. 28 GDPR",Insufficient legal basis for data processing,link
+534,ETid-536,FRANCE,2021-01-27,"75,000",Unknown,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+535,ETid-535,FRANCE,2021-01-27,"150,000",Unknown,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+536,ETid-534,SPAIN,2021-01-21,"75,000","Telefónica Móviles España, SAU",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+537,ETid-533,BELGIUM,2021-01-22,"25,000",Unknown,"Art. 5 (1) f), (2) GDPR, Art. 24 GDPR, Art. 32 GDPR, Art. 33 (1), (5) GDPR, Art. 34 (1) GDPR",Insufficient technical and organisational measures to ensure information security,link
+538,ETid-532,ITALY,2020-12-17,"40,000",Miropass S.r.l.,"Art. 5 (1) a), e) GDPR, Art. 6 GDPR, Art. 9 GDPR, Art. 28 GDPR",Insufficient legal basis for data processing,link
+539,ETid-531,ITALY,2020-12-17,"500,000",Roma Capitale (Rome Municipality),"Art. 5 (1) a) GDPR, Art. 13 GDPR, Art. 14 GDPR, Art. 28 (2), (3) GDPR, Art. 32 GDPR",Non-compliance with general data processing principles,link
+540,ETid-530,NORWAY,2021-01-19,"9,700",Aquateknikk AS,"Art. 5 GPDR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+541,ETid-529,SPAIN,2021-01-21,"50,000",Alterna Operador Integral S.L.,Art. 6 (1) b) GDPR,Insufficient legal basis for data processing,link
+542,ETid-528,SPAIN,2021-01-20,"1,200",Individual,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+543,ETid-527,POLAND,2021-01-05,"5,500",Śląski Uniwersytet Medyczny (Medical University of Silesia),"Art. 33 (1) GDPR, Art. 34 (1) GDPR",Insufficient fulfilment of data breach notification obligations,link
+544,ETid-526,BELGIUM,2021-01-12,"10,000",Unknown,"Art. 6 (1) GDPR, Art. 12 (3) GDPR, Art. 21 (1) GDPR",Insufficient legal basis for data processing,link
+545,ETid-525,NORWAY,2021-01-14,"38,600",Coop Finnmark SA,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+546,ETid-524,NORWAY,2021-01-12,"38,600",Unknown,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+547,ETid-523,HUNGARY,2020-11-18,28,Unknown,Art. 5 (1) d) GDPR,Non-compliance with general data processing principles,link
+548,ETid-522,SPAIN,2021-01-13,"6,000,000",Caixabank S.A.,"Art. 6 GDPR, Art. 13 GDPR, Art. 14 GDPR",Insufficient legal basis for data processing,link
+549,ETid-521,ITALY,2020-10-29,"4,000",Borgo Fonte Scura s.r.l.,"Art. 5 (1) a) GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+550,ETid-520,ITALY,2020-10-29,"20,000",Gaypa s.r.l.,"Art. 5 (1) a), c), e) GDPR, Art. 12 GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+551,ETid-519,GERMANY,2021-01-08,"10,400,000",notebooksbilliger.de,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+552,ETid-518,ESTONIA,2020-12-01,"100,000",Azeta.ee e-apteek,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+553,ETid-517,ESTONIA,2020-12-01,"100,000",Südameapteegi e-apteek,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+554,ETid-516,ESTONIA,2020-12-01,"100,000",Apotheka e-apteek,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+555,ETid-515,NORWAY,2021-01-07,"7,250",Gveik AS,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+556,ETid-514,NORWAY,2021-01-06,"9,700",Lindstrand Trading AS,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+557,ETid-513,CZECH REPUBLIC,2021-01-04,"118,500",Unknown,"Art. 6 (1) GDPR, Art. 14 GDPR",Insufficient legal basis for data processing,link
+558,ETid-512,POLAND,2019-11,"1,770",L. Sp. z o.o.,"Art. 5 (1) a), f) GDPR",Non-compliance with general data processing principles,link
+559,ETid-511,FRANCE,2021-01-05,"20,000",Nestor SAS,"Art. 12 GDPR, Art. 13 GDPR",Insufficient fulfilment of information obligations,link link
+560,ETid-510,POLAND,2020-12-09,"18,850",TUiR Warta S.A.,"Art. 33 (1) GDPR, Art. 34 (1) GDPR",Insufficient fulfilment of data breach notification obligations,link
+561,ETid-509,POLAND,2020-12-17,"235,300",ID Finance Poland Sp. z o.o.,"Art. 5 (1) f) GDPR, Art. 25 (1) GDPR, Art. 32 (1) b), d), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+562,ETid-508,FRANCE,2020-12-07,"7,300",Perfomeclic,"Art. 5 (1) c), e) GDPR, Art. 14 GDPR, Art. 21 GDPR, Art. 28 GDPR",Insufficient legal basis for data processing,link link
+563,ETid-507,NORWAY,2021-01-04,"95,500",Innovasjon Norge,"Art. 5 (1) GDPR, Art. 6 (1) GDPR",Insufficient legal basis for data processing,link
+564,ETid-506,SPAIN,2021-01-04,"54,000","Vodafone España, S.A.U.","Art. 5 (1) d), f) GDPR",Non-compliance with general data processing principles,link
+565,ETid-505,ROMANIA,2020-12-30,"3,000",ING Bank N.V. Amsterdam - Bucharest office,"Art. 5 (1) a) - d) GDPR, Art. 6 (1) GDPR",Insufficient legal basis for data processing,link
+566,ETid-504,ROMANIA,2020-12-29,"1,000",Qualitance QBS SA,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+567,ETid-503,ITALY,2020-11-26,"20,000",Concentrix Cvg Italy s.r.l.,"Art. 5 (1) a), c) GDPR, Art. 6 (1) b), c) GDPR, Art. 9 (1) b) GDPR",Insufficient legal basis for data processing,link
+568,ETid-502,ITALY,2020-11-26,"10,000",Reti Televisive Italiane S.p.a.,Art. 5 (1) a) GDPR,Non-compliance with general data processing principles,link
+569,ETid-501,POLAND,2020-12-28,"18,930",Towarzystwo Ubezpieczeń i Reasekuracji WARTA S.A.,"Art. 33 (1) GDPR, Art. 34 (1) GDPR",Insufficient fulfilment of data breach notification obligations,link
+570,ETid-500,BELGIUM,2020-12-23,"15,000",Unknown,"Art. 14 (1), (2) GDPR, Art. 12 (3) GDPR, Art. 6 GDPR, Art. 5 (1) c), (2) GDPR, Art. 24 (1), (2) GDPR",Insufficient fulfilment of data subjects rights,link
+571,ETid-499,BELGIUM,2020-12-23,"50,000",Unknown,"Art. 14 (1), (2) GDPR, Art. 12 (1), (2), (3) GDPR, Art. 15 (1) GDPR, Art. 5 (1) c), (2) GDPR, Art. 24 (1), (2) GDPR",Insufficient fulfilment of data subjects rights,link
+572,ETid-498,ROMANIA,2020-12-22,"2,000",S.C. C&V Water Control S.A.,"Art. 58 (1) a), e) GDPR, Art. 58 (2) i) GDPR",Insufficient cooperation with supervisory authority,link
+573,ETid-497,SPAIN,2020-12-22,"6,000","Iberdrola Clientes, SAU","Art. 48 (1) b) LGT, Art. 21 GDPR, Art. 23 (4) LOPDGDD",Insufficient fulfilment of data subjects rights,link
+574,ETid-496,SPAIN,2020-12-21,"36,000","Banco Bilbao Vizcaya Argentaria, S.A.",Art. 5 (1) d) GDPR,Non-compliance with general data processing principles,link
+575,ETid-495,HUNGARY,2020-12-16,"1,385",Next Time Media Agency Ltd. (Next Time Media Ügynökség Kft.),Art. 32 (1) GDPR,Insufficient technical and organisational measures to ensure information security,link
+576,ETid-494,HUNGARY,2020-12-16,"55,400",Robinson Tours Ltd. (Robinson Tours Idegenforgalmi és Szolgáltató Kft.),"Art. 25 (1), (2) GDPR, Art. 32 (1) b) GDPR, Art. 34 (1) GDPR",Insufficient technical and organisational measures to ensure information security,link
+577,ETid-493,HUNGARY,2020-12-16,"1,940",Unknown,"Art. 5 (1) b), c) GDPR, Art. 13 (1) GDPR",Insufficient fulfilment of information obligations,link
+578,ETid-492,SPAIN,2020-12-15,"10,000",Online Services,"Art. 13 GDPR, Art. 8 (1) GDPR, Art. 6 (1) a) GDPR",Insufficient fulfilment of information obligations,link
+579,ETid-491,FRANCE,2020-12-17,"6,000",Doctor,"Art. 32 GDPR, Art. 33 GDPR",Insufficient technical and organisational measures to ensure information security,link
+580,ETid-490,FRANCE,2020-12-17,"3,000",Doctor,"Art. 32 GDPR, Art. 33 GDPR",Insufficient technical and organisational measures to ensure information security,link link
+581,ETid-489,ROMANIA,2020-12-17,"100,000",Banca Transilvania SA,"Art. 5 (1) f) GDPR, Art. 32 (1), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+582,ETid-488,LATVIA,2020-12-15,"6,250",Unknown,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+583,ETid-487,LATVIA,2020-12-15,"15,000",HH Invest SIA,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+584,ETid-486,SWEDEN,2020-12-15,"29,500",Uppsalahem AB,"Art. 5 GDPR, Art. 6 (1) f) GDPR",Insufficient legal basis for data processing,link
+585,ETid-485,IRELAND,2020-12-15,"450,000",Twitter International Company,"Art. 33 (1), (5) GDPR",Insufficient fulfilment of data breach notification obligations,link
+586,ETid-484,GREECE,2020-10-29,"1,000",American College of Greece,"Art. 12 (3), (4) GDPR",Insufficient fulfilment of information obligations,link
+587,ETid-483,POLAND,2020-12-14,"443,000",Virgin Mobile Polska,"Art. 5 (1) f), (2) GDPR, Art. 25 (1) GDPR, Art. 32 (1) b), d), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+588,ETid-482,SWEDEN,2020-12-11,"54,000",Umeå University,"Art. 5 (1) f) GDPR, Art. 32 (1), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+589,ETid-481,SPAIN,2020-12-11,"5,000,000","Banco Bilbao Vizcaya Argentaria, S.A.","Art. 6 GDPR, Art. 13 GDPR",Insufficient fulfilment of information obligations,link
+590,ETid-480,SPAIN,2020-12-10,"4,000","Borjamotor, S.A.",Art. 7 GDPR,Insufficient legal basis for data processing,link
+591,ETid-479,BELGIUM,2020-11-13,"1,500",Unknown,"Art. 5 GDPR, Art. 6 GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 30 GDPR, Art. 37 (5) GDPR, Art. 37 (7) GDPR",Non-compliance with general data processing principles,link
+592,ETid-478,SPAIN,2020-12-09,"10,000",Unknown,Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+593,ETid-477,SPAIN,2020-12-09,"40,000",Xfera Moviles S.A.,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+594,ETid-476,SPAIN,2020-12-02,"10,000",Losada Advocats S.L.,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+595,ETid-475,SPAIN,2020-11-27,"1,200",Private Individual,Art. 5 (1) a) GDPR,Non-compliance with general data processing principles,link
+596,ETid-474,NORWAY,2020-12-03,"18,840",Municipality of Indre Østfold,"Art. 6 GDPR, Art. 32 (1) b) GDPR",Insufficient technical and organisational measures to ensure information security,link
+597,ETid-473,SWEDEN,2020-12-03,"2,900,000",Capio St. Göran AB,"Art. 5 (1) f) GDPR, Art. 5 (2) GDPR, Art. 32 (1) GDPR, Art. 32 (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+598,ETid-472,SWEDEN,2020-12-03,"390,100",Karolinska University Hospital of Solna,"Art. 5 (1) f) GDPR, Art. 5 (2) GDPR, Art. 32 (1) GDPR, Art. 32 (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+599,ETid-471,SWEDEN,2020-12-03,"341,300",Sahlgrenska University Hospital,"Art. 5 (1) f) GDPR, Art. 5 (2) GDPR, Art. 32 (1) GDPR, Art. 32 (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+600,ETid-470,SWEDEN,2020-12-03,"243,800",Västerbotten Region,"Art. 5 (1) f) GDPR, Art. 5 (2) GDPR, Art. 32 (1) GDPR, Art. 32 (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+601,ETid-469,SWEDEN,2020-12-03,"243,800",Östergötland Region,"Art. 5 (1) f) GDPR, Art. 5 (2) GDPR, Art. 32 (1) GDPR, Art. 32 (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+602,ETid-468,SPAIN,2020-12-03,"2,400","Dr Marín Cirugia Plástica, S.L.P.",Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+603,ETid-467,SWEDEN,2020-12-03,"1,168,000",Aleris Sjukvård AB,"Art. 5 (1) f) GDPR, Art. 5 (2) GDPR, Art. 32 (1) GDPR, Art. 32 (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+604,ETid-466,SWEDEN,2020-12-03,"1,463,000",Aleris Sjukvård AB,"Art. 5 (1) f) GDPR, Art. 5 (2) GDPR, Art. 32 (1) GDPR, Art. 32 (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+605,ETid-465,SPAIN,2020-12-02,"5,000","Asociación de Víctimas por Arbitrariedades Judiciales, (JAVA)",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+606,ETid-464,SPAIN,2020-12-02,"3,000","Comercio Online Levante, S.L.","Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+607,ETid-463,SPAIN,2020-12-02,"6,000","Servicio de Alojamientos Responsables, S.L.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+608,ETid-462,AUSTRIA,2020-10-19,150,Private Individual,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+609,ETid-461,AUSTRIA,2020-10-19,600,Private Individual,"Art. 5 (1) a) GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+610,ETid-460,BELGIUM,2020-11-25,"1,500",Private Individual,"Art. 6 GDPR, Art. 25 GDPR",Insufficient legal basis for data processing,link
+611,ETid-459,ITALY,2020-11-23,"20,000",Burgo Group S.p.A,"Art. 5 GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+612,ETid-458,SPAIN,2020-11-25,"40,000",Miraclia Telecomunicaciones S.L.,"Art. 6 GDPR, Art. 13 GDPR, Art. 14 GDPR",Insufficient legal basis for data processing,link
+613,ETid-457,FRANCE,2020-11-18,"2,250,000",Carrefour France,"Art. 5 GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 15 GDPR, Art. 17 GDPR, Art. 21 GDPR, Art. 32 GDPR, Art. 33 GDPR",Non-compliance with general data processing principles,link
+614,ETid-456,SWEDEN,2020-11-25,"19,500",Gnosjö Municipality,"Art. 5 GDPR, Art. 6 GDPR, Art. 13 GDPR, Art. 35 GDPR, Art. 36 GDPR",Insufficient legal basis for data processing,link
+615,ETid-455,SWEDEN,2020-11-24,"394,000",City of Stockholm,"Art. 5 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+616,ETid-454,FRANCE,2020-11-18,"800,000",Carrefour Banque,Art. 5 GDPR,Non-compliance with general data processing principles,link
+617,ETid-453,ROMANIA,2020-11-24,"5,000",Dada Creation S.R.L.,"Art. 32 GDPR, Art. 33 GDPR",Insufficient technical and organisational measures to ensure information security,link
+618,ETid-452,SPAIN,2020-11-18,"2,000","Anmavas 61, S.L.",Art. 58 GDPR,Insufficient cooperation with supervisory authority,link
+619,ETid-451,ROMANIA,2020-11-23,"4,000",Vodafone România SA,"Art. 12 GDPR, Art. 15 GDPR, Art. 17 GDPR",Insufficient fulfilment of data subjects rights,link
+620,ETid-450,SPAIN,2020-11-23,"12,000",Recambios Villalegre S.L.,"Art. 6 GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+621,ETid-449,IRELAND,2020-08-18,"65,000",Cork University Maternity Hospital,"Art. 5 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+622,ETid-448,ITALY,2020-11-17,"2,000",Comune di Collegno,"Art. 12 GDPR, Art. 13 GDPR, Art. 14 GDPR",Insufficient fulfilment of data subjects rights,link
+623,ETid-447,ITALY,2020-11-17,"30,000",Provincial Health Authority of Cosenza,Art. 9 GDPR,Insufficient legal basis for data processing,link
+624,ETid-446,SPAIN,2020-11-16,"42,000","Vodafone España, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+625,ETid-445,SPAIN,2020-11-16,"1,600",Homeowners Association,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+626,ETid-444,SPAIN,2020-11-11,"42,000","Vodafone España, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+627,ETid-443,SPAIN,2020-10-26,"50,000",Conseguridad SL,Art. 37 GDPR,Lack of appointment of data protection officer,link
+628,ETid-442,SPAIN,2020-10-26,"4,000",Organic Natur 03 S.L.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+629,ETid-441,SPAIN,2020-11-10,"3,000","Miguel Ibáñez Bezanilla, S.L.","Art. 13 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+630,ETid-440,UNITED KINGDOM,2020-11-13,"1,405,000",Ticketmaster UK Limited,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+631,ETid-439,SPAIN,2020-11-06,"20,000",Xfera Moviles S.A.,Art. 31 GDPR,Insufficient legal basis for data processing,link
+632,ETid-438,ITALY,2020-11-12,"12,251,601",Vodafone Italia S.p.A.,"Art. 5 (1), (2) GDPR, Art. 6 (1) GDPR, Art. 7 GDPR, Art. 15 (1) GDPR, Art. 16 GDPR, Art. 21 GDPR, Art. 24 GDPR, Art. 25 (1) GDPR, Art. 32 GDPR, Art. 33 GDPR",Non-compliance with general data processing principles,link
+633,ETid-437,SPAIN,2020-11-19,"36,000","Vodafone España, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+634,ETid-436,SPAIN,2020-11-05,"75,000","Telefonica Moviles Espana, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+635,ETid-435,SPAIN,2020-11-03,"30,000","Vodafone España, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+636,ETid-434,SPAIN,2020-10-28,"4,000","Play Orenes, S.L.",Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+637,ETid-433,ITALY,2020-10-26,"20,000",Università Campus Bio-medico di Roma (Polyclinic),"Art. 5 (2) a), f) GDPR, Art. 9 GDPR",Non-compliance with general data processing principles,link
+638,ETid-432,CYPRUS,2020-10-22,"6,000",Cyprus Police,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+639,ETid-431,SPAIN,2020-10-28,"36,000","Vodafone España, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+640,ETid-430,HUNGARY,2020-10-23,"54,800",Deichmann Cipőkereskedelmi Korlátolt Felelősségű Társaságnak,"Art. 12 GDPR, Art. 15 GDPR, Art. 18 (1) c) GDPR, Art. 25 GDPR",Insufficient fulfilment of data subjects rights,link
+641,ETid-429,LITHUANIA,2020-10-21,"15,000",Vilnius City Municipality Administration,"Art. 5 (1) d) GDPR, Art. 5 (1) f) GDPR",Non-compliance with general data processing principles,link link
+642,ETid-428,ITALY,2020-09-03,"2,000",Comune di Casaloldo,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+643,ETid-427,HUNGARY,2020-07-23,"1,700",Employer,"Art. 12 GDPR, Art. 15 GDPR, Art. 17 GDPR",Insufficient fulfilment of data subjects rights,link
+644,ETid-426,SPAIN,2020-09-22,"7,800","Iweb Internet Learning, S.L.","Art. 7 GDPR, Art. 12 GDPR, Art. 13 GDPR",Insufficient fulfilment of information obligations,link
+645,ETid-425,ROMANIA,2020-10-20,"2,000",Globus Score SRL,Art. 58 GDPR,Insufficient cooperation with supervisory authority,link
+646,ETid-424,SPAIN,2020-10-06,"4,000","Callesgarcia, S.L.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+647,ETid-423,SPAIN,2020-10-03,"3,000","Avata Hispania, S.L.","Art. 5 GDPR, Art. 6 GDPR, Art. 28 (3) g) GDPR",Insufficient legal basis for data processing,link
+648,ETid-422,CYPRUS,2020-10-19,"15,000",Bank of Cyprus Public Company Ltd,"Art. 5 (1) f) GDPR, Art. 5 (2) GDPR, Art. 15 GDPR, Art. 32 GDPR, Art. 33 GDPR",Insufficient technical and organisational measures to ensure information security,link
+649,ETid-421,CYPRUS,2020-10-19,"1,000",Grant Ideas Ltd,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+650,ETid-420,ROMANIA,2020-10-15,"3,000",S.C. Marsorom S.R.L.,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+651,ETid-419,SPAIN,2020-10-09,"5,000",Caja Rural San José de Nules S. Cooperativa de Crédito,Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+652,ETid-418,SPAIN,2020-10-09,"50,000","Centro de Investigación y Estudio para la Obesidad, SL","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+653,ETid-417,SPAIN,2020-10-09,"2,000",Private Person,"Art. 5 (1) c) GDPR, Art. 6 GDPR",Non-compliance with general data processing principles,link
+654,ETid-416,NORWAY,2020-09-25,"13,900",Odin Flissenter AS,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+655,ETid-415,SPAIN,2020-10-09,900,Café Restaurante B.B.B,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+656,ETid-414,SPAIN,2020-09-30,"3,000","Venu Sanz Chef, S.L.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+657,ETid-413,ROMANIA,2020-10-01,"2,000",Asociația de proprietari Militari R,"Art. 31 GDPR, Art. 58 GDPR",Insufficient cooperation with supervisory authority,link
+658,ETid-412,ROMANIA,2020-10-01,"3,000",Megareduceri TV S.R.L.,"Art. 31 GDPR, Art. 58 GDPR",Insufficient cooperation with supervisory authority,link
+659,ETid-411,SPAIN,2020-10-06,"60,000",Lycamobile,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+660,ETid-410,POLAND,2020-06-03,"1,168",Entrepreneur running a non-public nursery and pre-school,"Art. 31 GDPR, Art. 58 GDPR",Insufficient cooperation with supervisory authority,link
+661,ETid-409,HUNGARY,2020-07-16,28,Google Ireland Ltd.,"Art. 12 GDPR, Art. 15 GDPR",Insufficient fulfilment of data subjects rights,link
+662,ETid-408,SPAIN,2020-09-25,"60,000",Xfera Moviles S.A.,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+663,ETid-407,ITALY,2020-09-30,"60,000",Scanshare s.r.l.,"Art. 5 (1) a) GDPR, Art. 6 GDPR, Art. 9 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+664,ETid-406,ITALY,2020-09-30,"80,000",Azienda Ospedaliera di Rilievo Nazionale 'Antonio Cardarelli' (Private Hospital),"Art. 5 (1) a) GDPR, Art. 6 GDPR, Art. 13 GDPR, Art. 28 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+665,ETid-405,GERMANY,2020-10-01,"35,258,708",H&M Hennes & Mauritz Online Shop A.B. & Co. KG,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+666,ETid-404,SPAIN,2020-09-22,"60,000","GLP Instalaciones 86, SL","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+667,ETid-403,BELGIUM,2020-09-07,0,Former mayor of a community,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+668,ETid-402,ITALY,2020-09-07,"2,000",Istituto Comprensivo Statale Crucoli Torretta,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+669,ETid-401,ROMANIA,2020-09-08,"2,000",Sanatatea Press Group S.R.L.,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+670,ETid-400,GREECE,2020-09-11,"8,000",Private Person,Art. 5 GDPR,Non-compliance with general data processing principles,link
+671,ETid-399,SPAIN,2020-09-11,"1,500",Political Party,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+672,ETid-398,SPAIN,2020-09-16,"10,000",Property owners community,Art. 5 GDPR,Non-compliance with general data processing principles,link
+673,ETid-397,SPAIN,2020-09-17,"3,000",Grupo Carolizan,Art. 5 GDPR,Non-compliance with general data processing principles,link
+674,ETid-396,SPAIN,2020-09-17,"60,000","Vodafone España, SAU","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+675,ETid-395,ROMANIA,2020-09-01,500,Apartment building owners association,"Art. 5 GDPR, Art. 6 GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 25 GDPR, Art. 32 GDPR",Insufficient legal basis for data processing,link
+676,ETid-394,HUNGARY,2020-07-23,560,Forbes Hungary,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+677,ETid-393,GREECE,2020-08-03,"3,000",Candidate for parliamentary elections,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+678,ETid-392,POLAND,2020-09-08,"11,200",Warsaw University of Life Sciences,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+679,ETid-391,ITALY,2020-07-02,"15,000",Mapei S.p.A.,"Art. 5 GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 15 GDPR",Insufficient fulfilment of data subjects rights,link
+680,ETid-390,SPAIN,2020-09-07,"3,000",Barcelona Airport Security Guard Association ('AVSAB'),Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+681,ETid-389,SPAIN,2020-09-01,"75,000","Telefónica Móviles España, SAU","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+682,ETid-388,SPAIN,2020-07-31,"1,500",Tour & People Max S.L.,Art. 21 GDPR,Insufficient fulfilment of data subjects rights,link
+683,ETid-387,POLAND,2020-08-31,"22,700",Surveyor General of Poland ('GKK'),"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+684,ETid-386,SPAIN,2020-08-28,"5,000",Basketball Federation of Castilla and Leon,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+685,ETid-385,SPAIN,2020-08-28,"50,000",Bankia S.A.,Art. 5 (1) b) GDPR,Non-compliance with general data processing principles,link
+686,ETid-384,ESTONIA,2020-08-17,48,Police Officer,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+687,ETid-383,SPAIN,2020-08-17,"5,000",Party of the Socialists of Catalonia,Art. 5 (1) b) GDPR,Non-compliance with general data processing principles,link
+688,ETid-382,SPAIN,2020-07-31,"45,000",Vodafone España SAU,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+689,ETid-381,POLAND,2020-07-15,"22,300",Office for geodesy and cartography,"Art. 31 GDPR, Art. 58 GDPR",Insufficient cooperation with supervisory authority,link
+690,ETid-380,BELGIUM,2020-07-28,"3,000",Communal political association,"Art. 5 GDPR, Art. 6 GDPR, Art. 14 GDPR",Insufficient legal basis for data processing,link
+691,ETid-379,ITALY,2020-07-29,"4,000",Region of Campania,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+692,ETid-378,ITALY,2020-07-29,"3,000",Community of San Giorgio Jonico,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+693,ETid-377,ITALY,2020-07-30,"2,000",Community of Manduria,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+694,ETid-376,ITALY,2020-08-04,"1,000",Supermarket,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+695,ETid-375,ITALY,2020-08-04,"5,000",National Institute for Social Security - Department of the Province of Brescia,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+696,ETid-374,ITALY,2020-08-04,"15,000",Mapei S.p.A.,"Art. 5 GDPR, Art. 6 GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 15 GDPR, Art. 17 GDPR",Insufficient legal basis for data processing,link
+697,ETid-373,ITALY,2020-08-05,"2,000",School,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+698,ETid-372,AUSTRIA,2020-08-05,100,Bank,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+699,ETid-371,SPAIN,2020-08-05,"3,000",Restaurant,"Art. 5 (1) c) GDPR, Art. 12 GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+700,ETid-370,FINLAND,2020-08-05,"7,000",Acc Consulting Varsinais-Suomi,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+701,ETid-369,SPAIN,2020-08-06,"3,000",Just Landed S.L.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+702,ETid-368,ITALY,2020-08-06,"3,000",GTL S.R.L.,"Art. 12 GDPR, Art. 15 GDPR",Insufficient fulfilment of data subjects rights,link
+703,ETid-367,ITALY,2020-08-10,"10,000",Community of Baronissi,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+704,ETid-366,ITALY,2020-08-10,"10,000",Cavauto S.R.L.,"Art. 5 GDPR, Art. 6 GDPR, Art. 7 GDPR",Insufficient legal basis for data processing,link
+705,ETid-365,SPAIN,2020-08-04,"60,000","Vodafone España, SAU","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+706,ETid-364,SPAIN,2020-08-06,"3,000",GROW BEATS SL,"Art. 12 GDPR, Art. 13 GDPR, Art. 14 GDPR",Insufficient fulfilment of information obligations,link
+707,ETid-363,DENMARK,2020-08-04,"20,100",PrivatBo A.M.B.A.,"Art. 5 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+708,ETid-362,FRANCE,2020-08-05,"250,000",Spartoo,"Art. 5 (1) GDPR, Art. 13 GDPR, Art. 14 GDPR",Non-compliance with general data processing principles,link
+709,ETid-361,DENMARK,2020-07-28,"147,800",Arp Hansen Hotel Group A/S,Art. 5 (1) e) GDPR,Non-compliance with general data processing principles,link
+710,ETid-360,ROMANIA,2020-07-27,"5,000",SC Cntar Tarom SA,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+711,ETid-359,ROMANIA,2020-07-30,"2,000",Romanian Post National Company,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+712,ETid-358,ROMANIA,2020-07-30,"2,000",SC Viva Credit IFN SA,Art. 17 GDPR,Insufficient fulfilment of data subjects rights,link
+713,ETid-357,BELGIUM,2020-07-14,"5,000",Operator of CCTV of a residential building,"Art. 6 GDPR, Art. 7 GDPR",Insufficient legal basis for data processing,link
+714,ETid-356,SPAIN,2020-07-23,"5,000",El Real Sporting de Gijón S.A.D.,"Art. 6 GDPR, Art. 7 GDPR",Insufficient legal basis for data processing,link
+715,ETid-355,SPAIN,2020-07-23,"5,000",Xfera Moviles S.A.,Art. 58 GDPR,Insufficient cooperation with supervisory authority,link
+716,ETid-354,SPAIN,2020-07-23,"75,000","Telefónica Móviles España, SAU","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+717,ETid-353,SPAIN,2020-07-23,"70,000","Telefónica Móviles España, SAU","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+718,ETid-352,SPAIN,2020-07-23,"55,000","Telefónica Móviles España, SAU","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+719,ETid-351,SPAIN,2020-07-23,"10,000","El Periódico de Catalunya, S.L.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+720,ETid-350,SPAIN,2020-07-20,"70,000",Xfera Moviles S.A.,Art. 5 GDPR,Non-compliance with general data processing principles,link
+721,ETid-349,SPAIN,2020-07-20,"80,000",Orange Espagne S.A.U.,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+722,ETid-348,GREECE,2020-06-29,"5,000",New York College S.A.,Art. 5 GDPR,Non-compliance with general data processing principles,link
+723,ETid-347,SPAIN,2020-07-20,"1,500","Comercial Vigobrandy, SL","Art. 12 GDPR, Art. 13 GDPR, Art. 14 GDPR",Insufficient fulfilment of information obligations,link
+724,ETid-346,SPAIN,2020-07-20,"40,000",Iberia Lae SA Operadora Unipersonal,Art. 58 GDPR,Insufficient cooperation with supervisory authority,link
+725,ETid-345,SPAIN,2020-07-20,"24,000","Banco Bilbao Vizcaya Argentaria, SA","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+726,ETid-344,BELGIUM,2020-07-14,"600,000",Google Belgium SA,"Art. 5 GDPR, Art. 6 GDPR, Art. 17 (1) a) GDPR, Art. 12 GDPR",Insufficient fulfilment of data subjects rights,link
+727,ETid-343,SPAIN,2020-07-10,"55,000",Xfera Moviles S.A.,"Art. 5 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+728,ETid-342,SPAIN,2020-07-10,"5,000",School Fitness Holiday & Franchising S.L.,Art. 5 GDPR,Non-compliance with general data processing principles,link
+729,ETid-341,SPAIN,2020-07-10,"5,000",Global Business Travel Spain SLU,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+730,ETid-340,SPAIN,2020-07-10,"12,000","Vodafone España, SAU",Art. 5 GDPR,Non-compliance with general data processing principles,link
+731,ETid-339,SPAIN,2020-07-10,"1,000",Centro Internacional De Crecimiento Laboral Y Profesional S.L.,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+732,ETid-338,SPAIN,2020-07-10,"1,500",Auto Desguaces Iglesias S.L.,Art. 5 GDPR,Non-compliance with general data processing principles,link
+733,ETid-337,ITALY,2020-07-13,"800,000",Iliad Italia S.p.A.,"Art. 5 GDPR, Art. 25 GDPR",Non-compliance with general data processing principles,link
+734,ETid-336,ITALY,2020-07-13,"16,700,000",Wind Tre S.p.A.,"Art. 5 GDPR, Art. 6 GDPR, Art. 12 GDPR, Art. 24 GDPR, Art. 25 GDPR",Insufficient legal basis for data processing,link
+735,ETid-335,ITALY,2020-07-13,"200,000",Merlini s.r.l.,"Art. 5 GDPR, Art. 6 GDPR, Art. 7 GDPR, Art. 28 GDPR, Art. 29 GDPR",Insufficient legal basis for data processing,link
+736,ETid-334,THE NETHERLANDS,2020-07-06,"830,000",Bureau Krediet Registration ('BKR'),"Art. 12 GDPR, Art. 15 GDPR",Insufficient fulfilment of data subjects rights,link
+737,ETid-333,NORWAY,2020-07-10,"46,660",Municipality of Rælingen,"Art. 32 GDPR, Art. 35 GDPR",Insufficient technical and organisational measures to ensure information security,link
+738,ETid-332,POLAND,2020-07-10,"3,400",East Power Sp. z o.o.,"Art. 31 GDPR, Art. 58 GDPR",Insufficient cooperation with supervisory authority,link
+739,ETid-331,ROMANIA,2020-07-09,"15,000",Proleasing Motors SRL,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+740,ETid-330,SPAIN,2020-07-02,"5,000",Xfera Moviles S.A.,"Art. 31 GDPR, Art. 58 GDPR",Insufficient cooperation with supervisory authority,link
+741,ETid-329,SPAIN,2020-07-02,"3,600","Saunier-Tec Mantenimientos de Calor y Frio, SL.",Art. 33 GDPR,Insufficient fulfilment of data breach notification obligations,link
+742,ETid-328,NORWAY,2020-07-02,Only intention to issue fine,Odin Flissenter AS,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+743,ETid-327,SPAIN,2020-07-02,"4,000",De Vere Spain S.L.,Art. 21 GDPR,Insufficient fulfilment of data subjects rights,link
+744,ETid-326,SPAIN,2020-07-02,"24,000",Iberdrola Clientes,Art. 5 GDPR,Non-compliance with general data processing principles,link
+745,ETid-325,ITALY,2020-03-05,"3,000",San Giorgio Jonico,"Art. 5 GDPR, Art. 6 GDPR, Art. 17 GDPR",Insufficient legal basis for data processing,link
+746,ETid-324,ITALY,2020-01-30,"4,000",Comune di Colledara,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+747,ETid-323,SPAIN,2020-06-19,"6,000",National Police Brigade,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+748,ETid-322,NORWAY,2020-06-19,Only intention to issue fine,Aquateknikk AS,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+749,ETid-321,NORWAY,2020-06-22,"112,000",Østfold HF Hospital,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+750,ETid-320,IRELAND,2020-06-30,"40,000",Tusla Child and Family Agency,Art. 33 GDPR,Insufficient fulfilment of data breach notification obligations,link
+751,ETid-319,DENMARK,2020-06-30,"6,700",Lejre Municipality,"Art. 5 GDPR, Art. 6 GDPR, Art. 33 GDPR, Art. 34 GDPR",Non-compliance with general data processing principles,link
+752,ETid-318,ISLE OF MAN,2020-06-25,"13,500",Department of Home Affairs,"Art. 12 GDPR, Art. 15 GDPR",Insufficient fulfilment of data subjects rights,link
+753,ETid-317,BELGIUM,2020-06-08,"5,000",Municipal employee,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+754,ETid-316,BELGIUM,2020-06-16,"1,000",Unknown,"Art. 17 GDPR, Art. 21 GDPR, Art. 31 GDPR",Insufficient fulfilment of data subjects rights,link
+755,ETid-315,BELGIUM,2020-06-19,"10,000",Unknown,"Art. 5 GDPR, Art. 6 GDPR, Art. 15 GDPR",Insufficient fulfilment of data subjects rights,link
+756,ETid-314,SWEDEN,2020-06-16,"1,900",Housing Association,"Art. 5 GDPR, Art. 6 GDPR",Non-compliance with general data processing principles,link
+757,ETid-313,HUNGARY,2020-06-12,"288,000",Digi Távközlési Szolgáltató Kft. ('Digi') (electronic communication service provider),"Art. 5 (1) b), (e) GDPR, Art. 32 (1), (2) GDPR",Insufficient technical and organisational measures to ensure information security,link
+758,ETid-312,ROMANIA,2020-06-11,"3,000",Telekom Romania,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+759,ETid-311,SPAIN,2020-06-15,"75,000",Xfera Moviles S.A.,Art. 6 GDPR,Insufficient legal basis for data processing,link
+760,ETid-310,ROMANIA,2020-06-18,"4,000",Enel Energie,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+761,ETid-309,SPAIN,2020-06-16,"2,000",Café Bar,"Art. 5 GDPR, Art. 6 GDPR, Art. 13 GDPR, Art. 14 GDPR",Non-compliance with general data processing principles,link
+762,ETid-308,SPAIN,2020-06-22,"2,000",Comunidad de propietarios demelza beach,"Art. 5 GDPR, Art. 6 GDPR, Art. 13 GDPR, Art. 14 GDPR",Non-compliance with general data processing principles,link
+763,ETid-307,SPAIN,2020-06-23,"7,500",Miraclia (telecommunications company),"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+764,ETid-306,GERMANY,2020-06-30,"1,240,000",Allgemeine Ortskrankenkasse ('AOK') (health insurance company),"Art. 5 GDPR, Art. 6 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+765,ETid-305,HUNGARY,2020-01-24,"1,450",Accounting firm,"Art. 24 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+766,ETid-304,HUNGARY,2020-03-19,"5,800",Unknown Company,"Art. 6 GDPR, Art. 15 GDPR",Insufficient fulfilment of data subjects rights,link
+767,ETid-303,HUNGARY,2020-03-26,"2,890",Bank,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+768,ETid-302,ESTONIA,2020-04-30,500,Housing Association,Art. 6 GDPR,Insufficient legal basis for data processing,link
+769,ETid-301,ROMANIA,2020-04-23,"3,000",Telekom Romania Communications SA,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+770,ETid-300,SPAIN,2020-06-09,"2,000",Property Owner,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+771,ETid-299,SPAIN,2020-06-09,"2,000",Attorney,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+772,ETid-298,SPAIN,2020-06-09,"3,000",Salad Market S.L. (Catering Company),"Art. 13 GDPR, Art. 14 GDPR",Insufficient fulfilment of information obligations,link
+773,ETid-297,ROMANIA,2020-04-23,"3,000",Estee Lauder Romania,"Art. 6 GDPR, Art. 7 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+774,ETid-296,BELGIUM,2020-05-14,"50,000",Social Media Provider,Art. 6 GDPR,Insufficient legal basis for data processing,link
+775,ETid-295,BULGARIA,2020-04-14,"2,000",Political Party,Art. 6 GDPR,Insufficient legal basis for data processing,link
+776,ETid-294,NORWAY,2020-05-03,"134,000",Telenor Norge AS,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+777,ETid-293,SPAIN,2020-06-09,"40,000","TELEFONICA MOVILES ESPAÑA, S.A.U.",Art. 6 GDPR,Insufficient legal basis for data processing,link
+778,ETid-292,NORWAY,2020-09-03,"276,000",Bergen Municipality,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+779,ETid-291,SPAIN,2020-06-04,"4,000",Iberdrola Clientes,Art. 58 GDPR,Insufficient cooperation with supervisory authority,link
+780,ETid-290,SPAIN,2020-06-09,"25,000",Glovoapp23,Art. 37 GDPR,Lack of appointment of data protection officer,link
+781,ETid-289,SPAIN,2020-06-09,"39,000",Xfera Moviles S.A.,Art. 5 (1) f) GDPR,Insufficient legal basis for data processing,link
+782,ETid-288,SPAIN,2020-06-09,"75,000","Equifax Iberica, S.L.",Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+783,ETid-287,SPAIN,2020-06-09,"1,000",Property Owner,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+784,ETid-286,SPAIN,2020-06-09,540,Chenming Ye (Bazar Real),"Art. 13 GDPR, Art. 14 GDPR",Insufficient fulfilment of information obligations,link
+785,ETid-285,SPAIN,2020-06-09,"5,000",Consulting de Seguridad e Investigacion Mira Dp Madrid S.L.,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+786,ETid-284,HUNGARY,2020-03-09,870,Creditor,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+787,ETid-283,FINLAND,2020-05-29,"72,000",Taksi Helsinki,"Art. 5 GDPR, Art. 6 GDPR, Art. 35 GDPR",Non-compliance with general data processing principles,link
+788,ETid-282,BELGIUM,2020-05-29,"1,000",Non-profit organisation,"Art. 6 GDPR, Art. 21 GDPR",Insufficient fulfilment of data subjects rights,link
+789,ETid-281,FINLAND,2020-05-22,"12,500",Unknown Company,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+790,ETid-280,FINLAND,2020-05-22,"16,000",Kymen Vesi Oy,Art. 35 GDPR,Non-compliance with general data processing principles,link
+791,ETid-279,FINLAND,2020-05-22,"100,000",Posti Group Oyj,"Art. 12 GDPR, Art. 13 GDPR, Art. 14 GDPR, Art. 15 GDPR",Insufficient fulfilment of data subjects rights,link
+792,ETid-278,IRELAND,2020-05-17,"75,000",Tusla Child and Family Agency,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+793,ETid-277,DENMARK,2020-05-15,"6,700",JobTeam A/S DKK,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+794,ETid-276,SWEDEN,2020-05-12,"11,200",Health and Medical Board of the Region of Örebro County,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+795,ETid-275,ROMANIA,2020-05-05,"5,000",Banca Comercială Română SA,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+796,ETid-274,THE NETHERLANDS,2020-04-30,"725,000",Unknown Organisation,"Art. 5 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+797,ETid-273,SWEDEN,2020-04-29,"18,700",National Government Service Centre (NGSC),"Art. 33 GDPR, Art. 34 GDPR",Insufficient fulfilment of data breach notification obligations,link
+798,ETid-272,BELGIUM,2020-04-28,"50,000",Proximus SA,"Art. 31 GDPR, Art. 58 GDPR, Art. 37 GDPR",Lack of appointment of data protection officer,link
+799,ETid-271,GERMANY,2019,"50,000",Unknown Company,"Art. 15 GDPR, Art. 28 GDPR",Insufficient fulfilment of data subjects rights,link
+800,ETid-270,BULGARIA,2020-01-06,"5,110",Utility Company,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+801,ETid-269,BULGARIA,2020-02-20,"2,560",L.E. EOOD,"Art. 25 (1) GDPR, Art. 32 GDPR, Art. 6 GDPR",Insufficient technical and organisational measures to ensure information security,link
+802,ETid-268,BULGARIA,2020-02-20,"2,560",T.K. EOOD,"Art. 25 (1) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+803,ETid-267,POLAND,2020-03-09,"4,400",Vis Consulting Sp. z o.o.,"Art. 31 GDPR, Art. 58 GDPR",Insufficient cooperation with supervisory authority,link
+804,ETid-266,SPAIN,2020-03-25,"5,000",Xfera Moviles S.A.,Art. 58 GDPR,Insufficient cooperation with supervisory authority,link
+805,ETid-265,ITALY,2020-02-13,"4,000",Comune di Urago,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+806,ETid-264,ROMANIA,2020-03-25,"3,000",Dante International,"Art. 6 GDPR, Art. 21 GDPR",Insufficient legal basis for data processing,link
+807,ETid-263,ROMANIA,2020-03-25,"4,150",Vodafone Romania,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+808,ETid-262,ROMANIA,2020-03-25,"3,000",Enel Energie,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+809,ETid-261,ROMANIA,2020-03-25,"2,000",SOS Infertility Association,Art. 58 GDPR,Insufficient cooperation with supervisory authority,link
+810,ETid-260,HUNGARY,2020-03-04,290,Representative of a local government,"Art. 5 GDPR, Art. 6 GDPR, Art. 12 GDPR, Art. 15 GDPR, Art. 17 GDPR",Insufficient legal basis for data processing,link
+811,ETid-259,HUNGARY,2019-10-15,"2,860",Unknown Company,"Art. 5 GDPR, Art. 6 GDPR, Art. 13 GDPR, Art. 24 GDPR, Art. 25 GDPR",Non-compliance with general data processing principles,link
+812,ETid-258,HUNGARY,2019-08-08,"1,715",Government Office Managing the Real Estate Register,"Art. 5 GDPR, Art. 14 GDPR",Non-compliance with general data processing principles,link
+813,ETid-257,HUNGARY,2019-08-02,"4,290",Public area maintenance company,"Art. 5 GDPR, Art. 6 GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,link
+814,ETid-256,HUNGARY,2019-07-17,"8,575",Budapest Environs Regional Court,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+815,ETid-255,HUNGARY,2019-06-26,"2,850",Financial Enterprise,"Art. 5 GDPR, Art. 6 GDPR, Art. 21 GDPR",Insufficient legal basis for data processing,link
+816,ETid-254,HUNGARY,2019-06-26,"2,850",Unknown,"Art. 5 GDPR, Art. 6 GDPR, Art. 17 GDPR",Insufficient legal basis for data processing,link
+817,ETid-253,HUNGARY,2019-06-03,"2,850",Claim management company,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+818,ETid-252,HUNGARY,2019-05-31,"2,000",Local bank,"Art. 12 (3), (4), (5) GDPR, Art. 15 GDPR, Art. 18 GDPR",Insufficient fulfilment of data subjects rights,link
+819,ETid-251,HUNGARY,2019-05-21,286,Directorate of Social and Child Welfare Institutions of the Ferencvaros District of Budapest,Art. 33 GDPR,Insufficient fulfilment of data breach notification obligations,link
+820,ETid-250,GREECE,2020-03-20,"8,000",Speech and Special Education Centre - Mihou Dimitra,"Art. 15 GDPR, Art. 58 GDPR",Insufficient fulfilment of data subjects rights,link
+821,ETid-249,ITALY,2020-02-06,"20,000",RTI - Reti Televisive Italiane s.p.a.,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+822,ETid-248,SPAIN,2020-03-19,"6,000","Oliveros Ustrell, S.L.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+823,ETid-247,SPAIN,2020-03-16,"6,000",Amalfi Servicios de Restauracion S.L.,"Art. 5 GDPR, Art. 13 GDPR, Art. 14 GDPR",Non-compliance with general data processing principles,link
+824,ETid-246,SPAIN,2020-03-12,"2,000",Homeowners Association,"Art. 5 GDPR, Art. 13 GDPR, Art. 14 GDPR",Non-compliance with general data processing principles,link
+825,ETid-245,SPAIN,2020-03-06,"3,200",Retailer,"Art. 13 GDPR, Art. 14 GDPR",Insufficient fulfilment of information obligations,link
+826,ETid-244,SPAIN,2020-03-16,"4,000",Private Person,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+827,ETid-243,SPAIN,2020-03-16,"5,000","Centro De Estudio Dirigidos Delta, S.L.",Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+828,ETid-242,GREECE,2020-02-21,"5,000",Public Power Corporation S.A.,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+829,ETid-241,ROMANIA,2020-02-11,"3,000",Vodafone Romania,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+830,ETid-240,SPAIN,2020-03-18,"30,000",Telefónica,Art. 58 GDPR,Insufficient cooperation with supervisory authority,link
+831,ETid-239,CROATIA,2020-03-13,Unknown,Bank (name not available at the moment),"Art. 15 (1), (3) GDPR",Insufficient fulfilment of data subjects rights,link
+832,ETid-238,GERMANY,2019-08-05,200,Private person (YouTube-Channel),"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+833,ETid-237,NORWAY,2020-02-28,Only intention to issue fine,Coop Finnmark SA,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+834,ETid-236,GERMANY,2019,"2,000",Restaurant,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+835,ETid-235,NORWAY,2020-02-26,Only intention to issue fine,Rælingen Municipality,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+836,ETid-234,ICELAND,2020-03-10,"9,000",Breiðholt Upper Secondary School,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+837,ETid-233,ICELAND,2020-03-10,"20,600",National Center of Addiction Medicine ('SAA'),"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+838,ETid-232,SWEDEN,2020-03-11,"5,000,000",Google LLC,"Art. 5 GDPR, Art. 6 GDPR, Art. 17 GDPR",Insufficient fulfilment of data subjects rights,link
+839,ETid-231,DENMARK,2020-03-10,"14,000",Gladsaxe Municipality,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+840,ETid-230,DENMARK,2020-03-10,"7,000",Hørsholm Municipality,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+841,ETid-229,SPAIN,2020-03-09,"15,000",Gesthotel Activos Balagares,Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+842,ETid-228,SPAIN,2020-03-06,"4,000",Private person,Art. 5 GDPR,Non-compliance with general data processing principles,link
+843,ETid-227,ITALY,2020-03-06,"4,000",Liceo Scientifico Nobel di Torre del Greco,"Art. 5 GDPR, Art. 6 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+844,ETid-226,ITALY,2020-03-06,"4,000",Liceo Artistico Statale di Napoli,"Art. 5 GDPR, Art. 6 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+845,ETid-225,SPAIN,2020-03-04,"60,000","Vodafone España, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+846,ETid-224,POLAND,2020-03-04,0,School in Gdansk (Danzig) (fine imposed against town of Gdansk),"Art. 5 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link link
+847,ETid-223,SPAIN,2020-03-03,"24,000","Vodafone España, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+848,ETid-222,SPAIN,2020-03-03,"40,000","Vodafone España, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+849,ETid-221,SPAIN,2020-03-03,"42,000","Vodafone España, S.A.U.","Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+850,ETid-220,SPAIN,2020-03-03,"1,800",Solo Embrague,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+851,ETid-219,SPAIN,2020-02-28,"3,600",AEMA Hispánica,Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+852,ETid-218,THE NETHERLANDS,2020-03-03,"525,000",Royal Dutch Tennis Association ('KNLTB'),"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+853,ETid-217,SPAIN,2020-02-25,"6,000",Casa Gracio Operation,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+854,ETid-216,SPAIN,2020-02-25,"48,000",HM Hospitales,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+855,ETid-215,SPAIN,2020-02-28,"48,000","Vodafone ONO, S.A.U.",Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+856,ETid-214,SPAIN,2020-02-27,"120,000","Vodafone España, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+857,ETid-213,ITALY,2020-01-23,"30,000",Sapienza Università di Roma,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+858,ETid-212,ITALY,2020-01-23,"30,000",Azienda Ospedaliero Universitaria Integrata di Verona (Hospital),"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+859,ETid-211,SPAIN,2020-02-14,"30,000",Xfera Moviles S.A.,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+860,ETid-210,SPAIN,2020-02-14,"42,000","Vodafone España, S.A.U.","Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+861,ETid-209,SPAIN,2020-02-14,"80,000",Iberdrola Clientes,Art. 6 GDPR,Insufficient legal basis for data processing,link
+862,ETid-208,SPAIN,2020-02-18,"1,500","Mymoviles Europa 2000, S.L.",Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+863,ETid-207,SPAIN,2020-02-14,"3,000",Colegio Arenales Carabanchel (School),Art. 6 GDPR,Insufficient legal basis for data processing,link
+864,ETid-206,SPAIN,2020-02-14,"2,500","Grupo Valsor Y Losan, S.L.",Art. 5 (1) f) GDPR,Insufficient technical and organisational measures to ensure information security,link
+865,ETid-205,GERMANY,2019,Unknown,Hamburger Volksbank eG,Art. 21 GDPR,Insufficient fulfilment of data subjects rights,link
+866,ETid-204,GERMANY,2019,"20,000",Hamburger Verkehrsverbund GmbH (HVV GmbH),"Art. 33 GDPR, Art. 34 GDPR",Insufficient fulfilment of data breach notification obligations,link
+867,ETid-203,GERMANY,2019,"51,000",Facebook Germany GmbH,Art. 37 GDPR,Lack of appointment of data protection officer,link
+868,ETid-202,ITALY,2020-01-15,"10,000",Community of Francavilla Fontana,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+869,ETid-201,SPAIN,2020-02-04,"1,500",Cafetería Nagasaki,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+870,ETid-200,SPAIN,2020-02-03,800,Automoción,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+871,ETid-199,SPAIN,2020-02-03,"5,000",Queseria Artesenal Ameco S.L.,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+872,ETid-198,SPAIN,2020-02-03,"6,670",Banco Bilbao Vizcaya Argentaria S.L.,"Art. 5 GDPR, Art. 6 GDPR, Art. 21 GDPR",Insufficient legal basis for data processing,link
+873,ETid-197,SPAIN,2020-02-03,"75,000","Vodafone España, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+874,ETid-196,SPAIN,2020-02-03,"20,000","Iberia Lineas Aereas de Espana, S.A. Operadora Unipersonal","Art. 5 GDPR, Art. 6 GDPR, Art. 21 GDPR",Insufficient legal basis for data processing,link
+875,ETid-195,SPAIN,2020-02-03,"50,000","Vodafone España, S.A.U.",Art. 5 GDPR,Non-compliance with general data processing principles,link
+876,ETid-194,SPAIN,2020-02-03,"60,000","Vodafone España, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+877,ETid-193,SPAIN,2020-02-03,"75,000","Vodafone España, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+878,ETid-192,SPAIN,2020-02-03,"60,000",Xfera Moviles S.A.,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+879,ETid-191,SPAIN,2020-01-14,"3,600","Zhang Bordeta 2006, S.L. (Store and Restaurant)",Art. 5 GDPR,Non-compliance with general data processing principles,link
+880,ETid-190,GERMANY,2019-10-24,"100,000",Food company,"Art. 5 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+881,ETid-189,ITALY,2020-01-15,"27,800,000",TIM (telecommunications operator),"Art. 5 GDPR, Art. 6 GDPR, Art. 17 GDPR, Art. 21 GDPR, Art. 32 GDPR",Insufficient legal basis for data processing,link
+882,ETid-188,GREECE,2019-12-19,"150,000",Aegean Marine Petroleum Network Inc.,"Art. 5 GDPR, Art. 6 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+883,ETid-187,ITALY,2019-12-11,"3,000,000",Eni Gas e Luce,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+884,ETid-186,ITALY,2019-12-11,"8,500,000",Eni Gas e Luce,"Art. 5 GDPR, Art. 6 GDPR, Art. 17 GDPR, Art. 21 GDPR",Insufficient legal basis for data processing,link
+885,ETid-185,ROMANIA,2019-12-13,"5,000",Entirely Shipping & Trading S.R.L.,"Art. 5 (1) GDPR, Art. 6 GDPR, Art. 7 GDPR, Art. 9 GDPR",Non-compliance with general data processing principles,link
+886,ETid-184,ROMANIA,2019-12-13,"5,000",Entirely Shipping & Trading S.R.L.,"Art. 5 (1) GDPR, Art. 6 GDPR, Art. 7 GDPR",Non-compliance with general data processing principles,link
+887,ETid-183,GREECE,2020-01-13,"15,000",Allseas Marine S.A.,"Art. 5 (1) a), (2) GDPR",Non-compliance with general data processing principles,link
+888,ETid-182,CYPRUS,2020-01-13,"1,000",eShop for Sports (M.L. PRO.FIT SOLUTIONS LTD),Art. 6 GDPR,Insufficient legal basis for data processing,link
+889,ETid-181,CYPRUS,2019-10-25,"2,000","LGS Handling Ltd, Louis Travel Ltd, and Louis Aviation Ltd","Art. 6 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+890,ETid-180,CYPRUS,2019-10-25,"10,000","LGS Handling Ltd, Louis Travel Ltd, and Louis Aviation Ltd","Art. 6 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+891,ETid-179,CYPRUS,2019-10-25,"70,000","LGS Handling Ltd, Louis Travel Ltd, and Louis Aviation Ltd","Art. 6 GDPR, Art. 9 GDPR",Insufficient legal basis for data processing,link
+892,ETid-178,CYPRUS,2020-01-13,"9,000","Social Insurance Services of the Ministry of Labor, Welfare and Social Insurance",Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+893,ETid-177,ROMANIA,2019-12-16,"6,000",SC Enel Energie S.A. (Electricity Distributor),"Art. 5 GDPR, Art. 6 GDPR, Art. 7 GDPR, Art. 21 GDPR",Insufficient legal basis for data processing,link
+894,ETid-176,ROMANIA,2019-12-10,"14,000",Hora Credit IFN SA,"Art. 5 GDPR, Art. 25 GDPR, Art. 32 GDPR, Art. 33 GDPR",Insufficient technical and organisational measures to ensure information security,link
+895,ETid-175,SPAIN,2020-01-07,"10,000",Asociación de Médicos Demócratas,Art. 6 GDPR,Insufficient legal basis for data processing,link
+896,ETid-174,SPAIN,2020-01-07,"75,000","EDP Comercializadora, S.A.U.",Art. 6 GDPR,Insufficient legal basis for data processing,link
+897,ETid-173,SPAIN,2020-01-07,"75,000",EDP España S.A.U.,Art. 6 GDPR,Insufficient legal basis for data processing,link
+898,ETid-172,SPAIN,2020-01-09,"3,000","Vodafone España, S.A.U.",Art. 58 GDPR,Insufficient cooperation with supervisory authority,link
+899,ETid-171,SPAIN,2020-01-07,"44,000","Vodafone España, S.A.U.",Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+900,ETid-170,GERMANY,2019,"294,000",Unknown,Art. 5 GDPR,Non-compliance with general data processing principles,link
+901,ETid-169,BELGIUM,2019-12-17,"15,000",Website providing legal information,"Art. 6 GDPR, Art. 12 GDPR, Art. 13 GDPR",Insufficient fulfilment of information obligations,link
+902,ETid-168,BULGARIA,2019-10-08,"5,112",The Ministry of Interior Affairs,"Art. 5 (1) GDPR, Art. 6 (1) GDPR",Insufficient legal basis for data processing,link
+903,ETid-167,BULGARIA,2019-10-07,511,B.D.,Art. 31 GDPR,Insufficient cooperation with supervisory authority,link
+904,ETid-166,BULGARIA,2019-10-28,511,Employer,"Art. 12 (3) GDPR, Art. 15 (1) GDPR",Insufficient fulfilment of data subjects rights,link
+905,ETid-165,BULGARIA,2019-09-03,"1,121",Private enforcement agent,"Art. 12 (4) GDPR, Art. 15 GDPR",Insufficient fulfilment of data subjects rights,link
+906,ETid-164,BULGARIA,2019-09-03,"11,760",Commercial representative of telecommunication service provider,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+907,ETid-163,BULGARIA,2019-09-03,"5,113",Telecommunication service provide,"Art. 6 (1) GDPR, Art. 25 (1) GDPR",Insufficient legal basis for data processing,link
+908,ETid-162,BULGARIA,2019-09-03,"1,022",Telecommunication service provide,"Art. 6 (1) GDPR, Art. 25 (1) GDPR",Insufficient legal basis for data processing,link
+909,ETid-161,SPAIN,2019-12-10,"5,000","Shop Macoyn, S.L.",Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+910,ETid-160,ROMANIA,2019-11-29,500,Homeowners Association,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+911,ETid-159,BELGIUM,2019-12-17,"2,000",Nursing Care Organisation,"Art. 12 GDPR, Art. 15 GDPR, Art. 17 GDPR",Insufficient fulfilment of data subjects rights,link
+912,ETid-158,UNITED KINGDOM,2019-12-17,"320,000",Doorstep Dispensaree Ltd. (Pharmacy),Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+913,ETid-157,HUNGARY,2019-12-11,"1,430",Unknown Company,"Art. 5 GDPR, Art. 6 GDPR, Art. 13 GDPR, Art. 24 GDPR, Art. 25 GDPR",Non-compliance with general data processing principles,link
+914,ETid-156,ROMANIA,2019-12-18,"2,000",Telekom Romania Mobile Communications SA,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+915,ETid-155,GREECE,2019-10-18,"20,000",Wind Hellas Telecommunications,Art. 21 GDPR,Insufficient fulfilment of data subjects rights,link
+916,ETid-154,THE NETHERLANDS,2019-10-31,"50,000",Menzis (Health Insurance Company),Art. 5 GDPR,Non-compliance with general data processing principles,link
+917,ETid-153,SPAIN,2019-10-23,"60,000","Vodafone España, S.A.U.",Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+918,ETid-152,SPAIN,2019-11-06,"60,000","Vodafone España, S.A.U.",Art. 6 GDPR,Insufficient legal basis for data processing,link
+919,ETid-151,SPAIN,2019-11-19,"6,000",Sports Bar,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+920,ETid-150,HUNGARY,2019-10-24,"7,400",Military Hospital,"Art. 32 GDPR, Art. 33 GDPR",Insufficient fulfilment of data breach notification obligations,link
+921,ETid-149,ROMANIA,2019-12-02,"2,000",Nicola Medical Team 17 SRL,Art. 58 GDPR,Insufficient cooperation with supervisory authority,link
+922,ETid-148,ROMANIA,2019-11-26,"3,000",Modern Barber,Art. 58 GDPR,Insufficient cooperation with supervisory authority,link
+923,ETid-147,SPAIN,2019-12-10,"1,600",Megastar SL,"Art. 5 (1) c) GDPR, Art. 13 GDPR",Non-compliance with general data processing principles,
+924,ETid-146,SPAIN,2019-12-03,"5,000",Linea Directa Aseguradora,Art. 6 GDPR,Insufficient legal basis for data processing,link
+925,ETid-145,ROMANIA,2019-12-16,"2,000",Globus Score SRL,Art. 58 GDPR,Insufficient cooperation with supervisory authority,link
+926,ETid-144,SWEDEN,2019-12-16,"35,000",Nusvar AB,Art. 6 GDPR,Insufficient legal basis for data processing,link
+927,ETid-143,GERMANY,2019,800,Police Officer,Art. 6 GDPR,Insufficient legal basis for data processing,link
+928,ETid-142,SPAIN,2019-12-03,"1,500",Cerrajeria Verin S.L.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+929,ETid-141,SPAIN,2019-11-28,"75,000",Curenergía Comercializador de último recurso,Art. 6 GDPR,Insufficient legal basis for data processing,link
+930,ETid-140,BULGARIA,2019-09-03,"28,100",National Revenue Agency,"Art. 6 (1) GDPR, Art. 58 (2) e) GDPR",Insufficient legal basis for data processing,link
+931,ETid-139,HUNGARY,2019-10,"15,100",Town of Kerepes,Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+932,ETid-138,SPAIN,2019,"3,600","AMADOR RECREATIVOS, S.L",Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+933,ETid-137,SPAIN,2019,"9,000",Employer,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+934,ETid-136,SPAIN,2019,"20,000",Employer,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+935,ETid-135,SPAIN,2019,"40,000","Vodafone España, S.A.U.",Art. 6 GDPR,Insufficient legal basis for data processing,link
+936,ETid-134,SPAIN,2019,"30,000","Vodafone España, S.A.U.","Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+937,ETid-133,SPAIN,2019,"48,000","TELEFONICA MOVILES ESPAÑA, S.A.U.",Art. 5 (1) a) GDPR,Non-compliance with general data processing principles,link
+938,ETid-132,SPAIN,2019,"48,000","VODAFONE ONO, S.A.U.",Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+939,ETid-131,SPAIN,2019,"36,000","VODAFONE ONO, S.A.U.",Art. 5 (1) f) GDPR,Non-compliance with general data processing principles,link
+940,ETid-130,SPAIN,2019,"21,000","Vodafone España, S.A.U.",Art. 6 (1) GDPR,Insufficient legal basis for data processing,link
+941,ETid-129,GERMANY,2019-12-09,"10,000",Rapidata GmbH,Art. 37 GDPR,Lack of appointment of data protection officer,link
+942,ETid-128,GERMANY,2020-11-11,"900,000",Telecoms provider (1&1 Telecom GmbH),Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+943,ETid-127,ROMANIA,2019-11-29,"2,500",Royal President S.R.L.,"Art. 15 GDPR, Art. 6 GDPR, Art. 32 GDPR",Insufficient fulfilment of data subjects rights,link
+944,ETid-126,ROMANIA,2019-11-28,"80,000",ING Bank N.V.,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+945,ETid-125,ROMANIA,2019-12-04,"20,000",S CNTAR TAROM SA (Airline),Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+946,ETid-124,BELGIUM,2019-11-28,"5,000",Municipal alderman,Art. 6 GDPR,Insufficient legal basis for data processing,link
+947,ETid-123,BELGIUM,2019-11-28,"5,000",Mayor,Art. 6 GDPR,Insufficient legal basis for data processing,link
+948,ETid-122,GERMANY,2019-12-03,"105,000",Hospital,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+949,ETid-121,SPAIN,Unknown,"10,000",Ikea Ibérica,Art. 6 GDPR,Insufficient legal basis for data processing,link
+950,ETid-120,LATVIA,2019-11,"150,000",Unknown,Art. 6 GDPR,Insufficient legal basis for data processing,link
+951,ETid-119,SPAIN,2019-11-19,"60,000",Xfera Moviles S.A.,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+952,ETid-118,FRANCE,2019-11-21,"500,000",Futura Internationale,"Art. 5 GDPR, Art. 6 GDPR, Art. 13 GDPR, Art. 14 GDPR, Art. 21 GDPR, Art. 31 GDPR, Art. 44 GDPR",Insufficient fulfilment of data subjects rights,link
+953,ETid-117,SPAIN,2019-11-14,"30,000",Telefónica SA,Art. 5 GDPR,Non-compliance with general data processing principles,link
+954,ETid-116,ROMANIA,2019-11-22,"2,000",BNP Paribas Personal Finance S.A.,"Art. 12 GDPR, Art. 17 GDPR",Insufficient fulfilment of data subjects rights,link
+955,ETid-115,ROMANIA,2019-11-25,"11,000",Courier Services Company,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+956,ETid-114,SPAIN,2019-11-21,"60,000",Viaqua Xestión Integral Augas de Galicia,Art. 6 GDPR,Insufficient legal basis for data processing,link
+957,ETid-113,SPAIN,2019-11-19,"60,000",Corporación radiotelevisión espanola,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+958,ETid-112,CZECH REPUBLIC,Unknown,980,Individual entrepreneur - no further details published,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+959,ETid-111,CZECH REPUBLIC,Unknown,588,Alza.cz a.s.,"Art. 6 GDPR, Art. 7 GDPR",Insufficient legal basis for data processing,link
+960,ETid-110,SPAIN,2019-11-13,"3,000",General Confederation of Labour ('CGT'),Art. 6 GDPR,Insufficient legal basis for data processing,link
+961,ETid-109,SLOVAKIA,Unknown,"50,000",Social Insurance Agency,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+962,ETid-108,PORTUGAL,2019-03-19,"2,000",Unknown,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+963,ETid-107,THE NETHERLANDS,2019-10-31,"900,000",UWV (Dutch employee insurance service provider),Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+964,ETid-106,SPAIN,2019-10-31,"6,000",Jocker Premium Invex,Art. 6 GDPR,Insufficient legal basis for data processing,link
+965,ETid-105,SPAIN,2019-11-06,900,Cerrajero Online,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+966,ETid-104,SPAIN,Unknown,"12,000",Madrileña Red de Gas,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+967,ETid-103,SPAIN,2019-11-07,900,TODOTECNICOS24H S.L.,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+968,ETid-102,POLAND,2019-10-16,"47,000",ClickQuickNow,Art. 5 GDPR,Non-compliance with general data processing principles,link
+969,ETid-101,GERMANY,2019,"80,000",Unknown,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+970,ETid-100,SPAIN,2019-10-25,"36,000","Vodafone España, S.A.U.","Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+971,ETid-99,GERMANY,2019-10-30,Unknown,Deutsche Wohnen SE,Art. 5 GDPR,Non-compliance with general data processing principles,link
+972,ETid-98,GERMANY,2021-02-23,0,Deutsche Wohnen SE,"Art. 5 GDPR, Art. 25 GDPR",Non-compliance with general data processing principles,link
+973,ETid-97,POLAND,2019-10-18,"9,380",Major of Aleksandrów Kujawski,Art. 28 GDPR,Insufficient data processing agreement,link
+974,ETid-96,AUSTRIA,2019-10-29,0,Austrian Post,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+975,ETid-95,SLOVAKIA,Unknown,"40,000",Slovak Telekom,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+976,ETid-94,SPAIN,2019-10-16,"8,000",Iberdrola Clientes,Art. 31 GDPR,Insufficient cooperation with supervisory authority,link
+977,ETid-93,SPAIN,2019-10-16,"60,000",Xfera Moviles S.A.,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+978,ETid-92,SLOVAKIA,Unknown,Unknown,Unknown,"Art. 5 (1) a) GDPR, Art. 6 (1) a) GDPR",Insufficient legal basis for data processing,link
+979,ETid-91,SLOVAKIA,Unknown,Unknown,Unknown,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+980,ETid-90,SLOVAKIA,Unknown,Unknown,Unknown,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+981,ETid-89,SLOVAKIA,Unknown,Unknown,Unknown,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+982,ETid-88,ROMANIA,2019-09-26,"9,000",Inteligo Media SA,"Art. 5 (1) a) GDPR, Art. 6 (1) a) GDPR",Insufficient legal basis for data processing,link
+983,ETid-87,CYPRUS,2019,"14,000",Doctor,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+984,ETid-86,SPAIN,2019-10-01,"30,000",Vueling Airlines,"Art. 5 GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+985,ETid-85,ROMANIA,2019-10-09,"20,000",Vreau Credit SRL,"Art. 32 GDPR, Art. 33 GDPR",Insufficient technical and organisational measures to ensure information security,link
+986,ETid-84,ROMANIA,2019-10-09,"150,000",Raiffeisen Bank SA,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+987,ETid-83,GREECE,2019-10-07,"200,000",Telecommunication Service Provider,"Art. 21 (3) GDPR, Art. 25 GDPR",Non-compliance with general data processing principles,link
+988,ETid-82,GREECE,2019-10-07,"200,000",Telecommunication Service Provider,"Art. 5 (1) c) GDPR, Art. 25 GDPR",Non-compliance with general data processing principles,link
+989,ETid-81,SPAIN,Unknown,"9,600","Restaurant (SANTI 3000, S.L.)","Art. 5 (1) a) GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+990,ETid-80,BELGIUM,2019-09-17,"10,000",Merchant,Art. 5 (1) c) GDPR,Non-compliance with general data processing principles,link
+991,ETid-79,POLAND,2019-09-10,"660,000",Morele.net,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+992,ETid-78,GERMANY,2019-09-19,"195,407",Delivery Hero,"Art. 15 GDPR, Art. 17 GDPR, Art. 21 GDPR",Insufficient fulfilment of data subjects rights,link
+993,ETid-77,PORTUGAL,2019-03-25,"2,000",Unknown,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
+994,ETid-76,PORTUGAL,2019-02-05,"20,000",Unknown,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+995,ETid-75,NORWAY,2019-04-29,"120,000",Oslo Municipal Education Department,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+996,ETid-74,HUNGARY,2019-06-25,"15,150",Unknown,Art. 33 GDPR,Insufficient fulfilment of data breach notification obligations,link
+997,ETid-73,LATVIA,2019-08-26,"7,000",Online Services,Art. 17 GDPR,Insufficient fulfilment of data subjects rights,link
+998,ETid-72,BULGARIA,2019-08-28,"511,000",DSK Bank,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+999,ETid-71,BULGARIA,2019-08-28,"2,600,000",National Revenue Agency,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+1000,ETid-70,SPAIN,2019-08-16,"60,000",AVON COSMETICS,Art. 6 GDPR,Insufficient legal basis for data processing,link
+1001,ETid-69,AUSTRIA,2019-07,"11,000",Private person (soccer coach),Art. 6 GDPR,Insufficient legal basis for data processing,link
+1002,ETid-68,AUSTRIA,2019-08,"50,000",Company in the medical sector,"Art. 13 GDPR, Art. 37 GDPR",Insufficient fulfilment of information obligations,link
+1003,ETid-67,SWEDEN,2019-08-20,"18,630",School in Skellefteå,"Art. 5 (1) c) GDPR, Art. 9 GDPR, Art. 35 GDPR, Art. 36 GDPR",Insufficient legal basis for data processing,link
+1004,ETid-66,ROMANIA,2019-10-17,"2,500",UTTIS INDUSTRIES SRL,"Art. 12 GDPR, Art. 13 GDPR, Art. 5 (1) c) GDPR, Art. 6 GDPR",Insufficient fulfilment of information obligations,link
+1005,ETid-65,GREECE,2019-07-30,"150,000",PWC Business Solutions,"Art. 5 (1) GDPR, Art. 5 (2) GDPR, Art. 6 (1) GDPR, Art. 13 (1) c) GDPR, Art. 14 (1) c) GDPR",Insufficient legal basis for data processing,link
+1006,ETid-64,FRANCE,2019-07-25,"180,000",ACTIVE ASSURANCES (car insurer),Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+1007,ETid-63,THE NETHERLANDS,2019-06-18,"460,000",Haga Hospital,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+1008,ETid-62,ROMANIA,2019-07-05,"3,000",LEGAL COMPANY & TAX HUB SRL,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+1009,ETid-61,HUNGARY,2019-05-23,"92,146",Organizer of SZIGET festival and VOLT festival,"Art. 6 GDPR, Art. 5 (1) b) GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+1010,ETid-60,UNITED KINGDOM,2020-10-30,"20,450,000","Marriott International, Inc",Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+1011,ETid-59,ROMANIA,2019-07-02,"15,000",WORLD TRADE CENTER BUCHAREST SA,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+1012,ETid-58,UNITED KINGDOM,2020-10-16,"22,046,000",British Airways,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+1013,ETid-57,ROMANIA,2019-06-27,"130,000",UNICREDIT BANK SA,"Art. 25 (1) GDPR, Art. 5 (1) c) GDPR",Insufficient technical and organisational measures to ensure information security,link
+1014,ETid-56,SPAIN,Unknown,"60,000",ENDESA (energy supplyer),Art. 5 (1) f) GDPR,Insufficient legal basis for data processing,link
+1015,ETid-55,BULGARIA,2019-03-26,"5,100",A.P. EOOD,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+1016,ETid-54,BULGARIA,2019-04-08,510,Medical centers,"Art. 5 (1) a) GDPR, Art. 9 (1) GDPR, Art. 9 (2) GDPR, Art. 6 (1) GDPR",Insufficient legal basis for data processing,link
+1017,ETid-53,HUNGARY,2019-04-05,"1,900",Unknown,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+1018,ETid-52,HUNGARY,2019-04-17,"9,400",Unknown,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+1019,ETid-51,FRANCE,2019-06-13,"20,000",Employer UNIONTRAD COMPANY,"Art. 5 (1) c) GDPR, Art. 12 GDPR, Art. 13 GDPR, Art. 32 GDPR",Insufficient legal basis for data processing,link
+1020,ETid-50,GERMANY,2019-05-09,"1,400",Police Officer,Art. 6 GDPR,Insufficient legal basis for data processing,link
+1021,ETid-49,SPAIN,Unknown,"27,000","Vodafone España, S.A.U.",Art. 5 (1) d) GDPR,Insufficient fulfilment of data subjects rights,link
+1022,ETid-48,SPAIN,Unknown,"60,000","Debt collecting agancy (GESTIÓN DE COBROS, YO COBRO SL)",Art. 5 (1) f) GDPR,Insufficient legal basis for data processing,link
+1023,ETid-47,SPAIN,2019-06-11,"250,000",Professional Football League (LaLiga),"Art. 5 (1) a), Art. 7 (3) GDPR",Insufficient fulfilment of information obligations,link
+1024,ETid-46,SPAIN,Unknown,"5,000","Vodafone España, S.A.U.",Art. 5 (1) d) GDPR,Non-compliance with general data processing principles,link
+1025,ETid-45,PORTUGAL,2018-07-17,"400,000",Public Hospital,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+1026,ETid-44,POLAND,2019-04-25,"12,950",Sports association,Art. 6 GDPR,Insufficient legal basis for data processing,link link
+1027,ETid-43,POLAND,2019-03-26,"220,000",Private company working with data from publicly available sources,Art. 14 GDPR,Insufficient fulfilment of information obligations,link
+1028,ETid-42,NORWAY,2019-03,"170,000",Bergen Municipality,"Art. 5 (1) f) GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+1029,ETid-41,MALTA,2019-02-18,"5,000",Lands Authority,"Art. 5 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+1030,ETid-40,LITHUANIA,2019-05-16,"61,500",Payment service provider UAB MisterTango,"Art. 5 GDPR, Art. 32 GDPR, Art. 33 GDPR",Insufficient fulfilment of data breach notification obligations,link
+1031,ETid-39,ITALY,2019-04-17,"50,000",Italian political party Movimento 5 Stelle,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+1032,ETid-38,HUNGARY,2019-04-05,"34,375",Hungarian political party,"Art. 33 (1) GDPR, Art. 33 (5) GDPR, Art. 34 (1) GDPR",Insufficient fulfilment of data breach notification obligations,link
+1033,ETid-37,HUNGARY,2019-03-04,"3,200",Unnamed financial institution,"Art. 5 (1) b) GDPR, Art. 5 (1) c) GDPR, Art. 13 (3) GDPR, Art. 17 (1) GDPR, Art. 6 (4) GDPR",Insufficient fulfilment of data subjects rights,link link
+1034,ETid-36,HUNGARY,2019-02-28,"3,200",Mayor's Office of the city of Kecdkemét,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link link
+1035,ETid-35,HUNGARY,2018-12-18,"3,200",Unknown,"Art. 12 (4) GDPR, Art. 15 GDPR, Art. 18 (1) c) GDPR, Art. 13 GDPR",Insufficient fulfilment of data subjects rights,link
+1036,ETid-34,HUNGARY,2019-02-20,"1,560",Debt collector,"Art. 5 (1) a) GDPR, Art. 5 (1) c) GDPR",Non-compliance with general data processing principles,link link
+1037,ETid-33,HUNGARY,2019-02-08,"1,560",Bank,Art. 5 (1) d) GDPR,Non-compliance with general data processing principles,link link
+1038,ETid-32,GERMANY,2019-03,"50,000",N26,Art. 6 GDPR,Insufficient legal basis for data processing,Page 131 of the activity report of the Data Protection Commissioner of Berlin link link
+1039,ETid-31,GERMANY,2018,500,Unknown,Unknown,Unknown,link
+1040,ETid-30,GERMANY,Unknown,118,Unknown,Art. 6 GDPR,Insufficient legal basis for data processing,link
+1041,ETid-29,GERMANY,2018,"20,000",Unknown,"Art. 33 (1) GDPR, Art. 34 (1) GDPR",Insufficient fulfilment of data breach notification obligations,"Page 134 of the activity report of the Data Protection Commissioner of Hamburg, accessible under link"
+1042,ETid-28,GERMANY,2019-02-05,"2,500",Private person,"Art. 6 GDPR, Art. 5 GDPR",Insufficient legal basis for data processing,link
+1043,ETid-27,GERMANY,2019-04-12,"80,000",Company in the financial sector,"Art. 5 GDPR, Art. 32 GDPR",Insufficient technical and organisational measures to ensure information security,link
+1044,ETid-26,GERMANY,2018-12-17,"5,000",Kolibri Image Regina und Dirk Maass GbR,Art. 28 (3) GDPR,Insufficient data processing agreement,link link
+1045,ETid-25,GERMANY,2018-11-21,"20,000",Knuddels.de,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+1046,ETid-24,FRANCE,2019-05-28,"400,000",SERGIC (Real Estate),Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+1047,ETid-23,FRANCE,2019-01-21,"50,000,000",Google LLC,"Art. 13 GDPR, Art. 14 GDPR, Art. 6 GDPR, Art. 5 GDPR",Insufficient legal basis for data processing,link
+1048,ETid-22,DENMARK,2021-02-12,"13,450",IDdesign A / S,"Art. 5 (1) e) GDPR, Art. 5 (2) GDPR",Non-compliance with general data processing principles,link
+1049,ETid-21,DENMARK,2019,"160,000",Taxa 4x35,Art. 5(1) e) GDPR,Non-compliance with general data processing principles,link
+1050,ETid-20,CZECH REPUBLIC,2019-05-06,194,Unknown,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+1051,ETid-19,CZECH REPUBLIC,Unknown,"3,140","UniCredit Bank Czech Republic and Slovakia, a.s.",Art. 6 GDPR,Insufficient legal basis for data processing,link
+1052,ETid-18,CZECH REPUBLIC,2019-03-21,"10,000",Unknown,Art. 5 (1) GDPR,Non-compliance with general data processing principles,link
+1053,ETid-17,CZECH REPUBLIC,2019-02-26,776,Unknown,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+1054,ETid-16,CZECH REPUBLIC,2018-10-25,388,Unknown,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+1055,ETid-15,CZECH REPUBLIC,2019-02-04,"1,165",Credit brokerage,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+1056,ETid-14,CZECH REPUBLIC,2019-02-28,582,Unknown,Art. 32 GDPR,Insufficient technical and organisational measures to ensure information security,link
+1057,ETid-13,CZECH REPUBLIC,2019-02-04,"1,165",Car renting company,Art. 5 (1) a) GDPR,Insufficient fulfilment of information obligations,link
+1058,ETid-12,CZECH REPUBLIC,2019-01-10,388,Employer,Art. 6 GDPR,Insufficient legal basis for data processing,link
+1059,ETid-11,CYPRUS,2019,"10,000",Newspaper,Art. 6 GDPR,Insufficient legal basis for data processing,link
+1060,ETid-10,CYPRUS,2019,"5,000",State Hospital,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+1061,ETid-9,BULGARIA,2019-02-22,500,Employer,Art. 15 GDPR,Insufficient fulfilment of data subjects rights,link
+1062,ETid-8,BULGARIA,2019-01-17,500,Bank,"Art. 6 GDPR, Art. 5 (1) a) GDPR",Insufficient legal basis for data processing,link
+1063,ETid-7,BULGARIA,2019-02-26,"27,100",Telecommunication service provider,"Art. 6 GDPR, Art. 5 (1) a) GDPR",Insufficient legal basis for data processing,link
+1064,ETid-6,BULGARIA,2018-12-04,500,Bank,"Art. 5 (1) b) GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link link
+1065,ETid-5,BELGIUM,2019-05-28,"2,000",Mayor,"Art. 5 (1) b) GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+1066,ETid-4,AUSTRIA,2018-12-20,"2,200",Private person,"Art. 5 (1) a) GDPR, Art. 5 (1) c) GDPR, Art. 6 (1) GDPR, Art. 13 GDPR",Insufficient legal basis for data processing,link
+1067,ETid-3,AUSTRIA,2018-09-27,300,Private car owner,"Art. 5 (1) a) GDPR, Art. 6 GDPR",Insufficient legal basis for data processing,link
+1068,ETid-2,AUSTRIA,2018,"1,800",Kebab restaurant,"Art. 5 GDPR, Art. 13 GDPR, Art. 14 GDPR",Insufficient legal basis for data processing,link
+1069,ETid-1,AUSTRIA,2018-12-09,"4,800",Betting place,Art. 13 GDPR,Insufficient fulfilment of information obligations,link
